@@ -4,3 +4,5 @@
 
 High speed, moderately sized 3D-printer, based on the TronXY XS5(A) CoreXY frame,
 but can be easily adapted for other 2020 aluminium extrusion frames.
+
+![Vzbot](https://user-images.githubusercontent.com/37383368/137156711-d2b5afcd-bf61-4805-87e5-3ccd347ac3d4.png)
