@@ -1,3 +1,5 @@
+BOM is for one side only. You will need 2
+
 | Quantity | Part                         | Comment              | Image  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
 | 4       | M3 10mm Bolts                |                      | ![M3x10_sockethead](https://user-images.githubusercontent.com/37383368/137555951-bb03f918-6a68-4438-8133-c0722c0724b8.png)	        | |
