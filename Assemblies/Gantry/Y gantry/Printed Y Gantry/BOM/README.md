@@ -1,4 +1,4 @@
-BOM is for one side only. You will need 2
+BOM is for one side only. You will need 2. XendStop only needed on the left side.
 ![Y gantry printed](https://user-images.githubusercontent.com/37383368/137656992-d3bec6f1-1655-4f43-b02f-55e15b6b0665.gif)
 | Quantity | Part                         | Comment              | Image  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
