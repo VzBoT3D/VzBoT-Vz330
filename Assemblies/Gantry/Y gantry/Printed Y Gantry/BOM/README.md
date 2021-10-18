@@ -1,4 +1,6 @@
 BOM is for one side only. You will need 2
+![Y gantry printed v26](https://user-images.githubusercontent.com/37383368/137656401-8e51d7f9-e0dc-439d-9d39-f8b68e6b3c00.gif)
+
 ![image](https://user-images.githubusercontent.com/37383368/137652305-49d991ff-5700-40f3-94a5-5657dda7ca7a.png)
 
 
