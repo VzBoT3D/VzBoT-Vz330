@@ -1,8 +1,5 @@
 BOM is for one side only. You will need 2
 ![Y gantry printed](https://user-images.githubusercontent.com/37383368/137656992-d3bec6f1-1655-4f43-b02f-55e15b6b0665.gif)
-![image](https://user-images.githubusercontent.com/37383368/137652305-49d991ff-5700-40f3-94a5-5657dda7ca7a.png)
-
-
 | Quantity | Part                         | Comment              | Image  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
 | 4       | M3 10mm Bolts                |                      | ![M3x10_sockethead](https://user-images.githubusercontent.com/37383368/137555951-bb03f918-6a68-4438-8133-c0722c0724b8.png)	        | |
