@@ -1,4 +1,6 @@
 BOM is for one side only. You will need 2
+![image](https://user-images.githubusercontent.com/37383368/137652328-3d01668c-ae7f-47b2-bd48-ddcd86cf6bd1.png)
+
 
 | Quantity | Part                         | Comment              | Image  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
