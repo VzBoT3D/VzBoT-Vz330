@@ -1,6 +1,5 @@
 BOM is for one side only. You will need 2
-![image](https://user-images.githubusercontent.com/37383368/137652328-3d01668c-ae7f-47b2-bd48-ddcd86cf6bd1.png)
-
+![Y gantry aluminum v7](https://user-images.githubusercontent.com/37383368/137658941-ec4aa107-41c0-4470-adfa-1b0e90ed75c5.gif)
 
 | Quantity | Part                         | Comment              | Image  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
