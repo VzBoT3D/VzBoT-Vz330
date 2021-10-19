@@ -1,5 +1,4 @@
-![Front Idlers mount Left](https://user-images.githubusercontent.com/37383368/137833707-6a01ad7a-8522-49dd-a052-74667e307710.gif)
-
+![Front Idlers mount Right](https://user-images.githubusercontent.com/37383368/137835112-22be4357-46fa-49fd-ba56-4766f1433c5e.gif)
 
 | Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
