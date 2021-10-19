@@ -1,11 +1,11 @@
 ![Right motor assembly](https://user-images.githubusercontent.com/37383368/137791244-9a173d34-b268-4b07-91bd-4185d0edc61d.gif)
 
 
-| Quantity | Part                         | Comment              | Image  | Links  |
+| Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
-| 6       | M4 10mm Bolts                | Socket or button hedp |	![M4x10_buttonhead](https://user-images.githubusercontent.com/37383368/137783366-eb775458-f35d-435f-8b33-ee8cf37a0e12.png)      | https://s.click.aliexpress.com/e/_AbUp3N |
-| 6       | M4 T Nuts                    |                       |	![M4 Tnuts](https://user-images.githubusercontent.com/37383368/137783436-4e1c6bae-e78c-47b5-b697-86cc7f41cef6.PNG)        | https://s.click.aliexpress.com/e/_AsGUWF |
-| 2       | M3 35mm Bolts                |                       | 	![M3x35_sockethead](https://user-images.githubusercontent.com/37383368/137784085-14e0c99b-05d1-4620-97a1-6385ebfe1d04.png)      | https://s.click.aliexpress.com/e/_991jT9 |
-| 2       | M3 6mm Bolts                |                       | ![M3x6_sockethead](https://user-images.githubusercontent.com/37383368/137784681-488fde31-5581-4e50-90a7-7d5c8438d763.png)	     | https://s.click.aliexpress.com/e/_991jT9 |
-| 1       | Gt2 20teeh pulley           |                       | ![Pulley-20teeth GT2 6mm+5mm bore](https://user-images.githubusercontent.com/37383368/137785091-7e4211e4-f66a-48da-8b55-a3f79002b99c.png)	     | https://s.click.aliexpress.com/e/_ATlwQj |
-| 1       | Nema 17 Motor              | Your choice of brand (See main BOM spread sheet for recommended ones with links | ![Nema17](https://user-images.githubusercontent.com/37383368/137785760-412aa931-21f3-4970-a272-1612ccd4b098.png) 	     | see main bom list |
+| 6       | M4 10mm Flat Head Bolts       | ![M4x10_flathead](https://user-images.githubusercontent.com/37383368/137826927-a2a9d8b4-6d00-456e-b5a2-7fcfb7cc3869.png) | | https://s.click.aliexpress.com/e/_AsudL9 |
+| 6       | M4 T Nuts                    | ![M4 Tnuts](https://user-images.githubusercontent.com/37383368/137783436-4e1c6bae-e78c-47b5-b697-86cc7f41cef6.PNG) | | https://s.click.aliexpress.com/e/_AsGUWF |
+| 2       | M3 30mm Flat Head Bolts     | ![M3x30_flathead](https://user-images.githubusercontent.com/37383368/137827406-6af4049f-6a61-4a9b-b64c-ec020c282c84.png) |  | https://s.click.aliexpress.com/e/_ALHmhz |
+| 2       | M3 10mm Flat Head Bolts     | ![M3x10_flathead](https://user-images.githubusercontent.com/37383368/137827422-4a827033-c1cd-4846-8a36-25ab6d153121.png)  |    | https://s.click.aliexpress.com/e/_AsudL9 |
+| 1       | Gt2 20teeh pulley           | ![Pulley-20teeth GT2 6mm+5mm bore](https://user-images.githubusercontent.com/37383368/137785091-7e4211e4-f66a-48da-8b55-a3f79002b99c.png)	 |    | https://s.click.aliexpress.com/e/_ATlwQj |
+| 1       | Nema 17 Motor              | ![Nema17](https://user-images.githubusercontent.com/37383368/137785760-412aa931-21f3-4970-a272-1612ccd4b098.png)   | Your choice of brand (See main BOM spread sheet for recommended ones with links  ||
