@@ -1,4 +1,5 @@
-![Right motor assembly](https://user-images.githubusercontent.com/37383368/137828880-a696c1eb-6d55-4098-89cc-4c8db1a2b7ab.gif)
+![Right Motor mount nema17](https://user-images.githubusercontent.com/37383368/137977156-3ed41d59-1b4c-45f0-a530-728dd3e0040e.gif)
+
 
 | Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
