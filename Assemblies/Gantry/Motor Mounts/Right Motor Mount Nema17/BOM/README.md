@@ -1,5 +1,4 @@
-![Right motor assembly](https://user-images.githubusercontent.com/37383368/137791244-9a173d34-b268-4b07-91bd-4185d0edc61d.gif)
-
+![Right motor assembly](https://user-images.githubusercontent.com/37383368/137828880-a696c1eb-6d55-4098-89cc-4c8db1a2b7ab.gif)
 
 | Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
