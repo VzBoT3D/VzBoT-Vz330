@@ -1,8 +1,18 @@
-# VzBot.  <a href='https://ko-fi.com/vez3d' target='_blank'><img height='46' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
-
-![Join us on Discord](https://discordapp.com/api/guilds/829828765512106054/widget.png?style=banner2)
-
-High speed, moderately sized 3D-printer, based on the TronXY XS5(A) CoreXY frame,
-but can be easily adapted for other 2020 aluminium extrusion frames.
-
-![Vzbot](https://user-images.githubusercontent.com/37383368/137156711-d2b5afcd-bf61-4805-87e5-3ccd347ac3d4.png)
+![IMG_8132](https://user-images.githubusercontent.com/37383368/138297161-78030e37-5d76-4d26-a288-6d08b1257c3b.jpg)
+![IMG_8133](https://user-images.githubusercontent.com/37383368/138297164-088cb393-699e-4212-825e-057964eb280a.jpg)
+![IMG_8134](https://user-images.githubusercontent.com/37383368/138297166-c27a2c68-5c04-40f8-bccf-fb3dfce1cad0.jpg)
+![IMG_8136](https://user-images.githubusercontent.com/37383368/138297167-71e72e98-782b-48c4-a49e-1693fd4b4a98.jpg)
+![IMG_8147](https://user-images.githubusercontent.com/37383368/138297169-fd509821-e275-451d-b255-4a719de6e081.jpg)
+![IMG_8159](https://user-images.githubusercontent.com/37383368/138297172-92233c69-b924-4b00-86d3-fd554da27d81.jpg)
+![IMG_8162](https://user-images.githubusercontent.com/37383368/138297177-97894e41-f099-420c-9dd4-1b884d11633a.jpg)
+![IMG_8166](https://user-images.githubusercontent.com/37383368/138297179-df5cfa7b-a4cc-49d8-9ff7-fe0b49fd16e7.jpg)
+![IMG_8173](https://user-images.githubusercontent.com/37383368/138297181-8b177c2b-c141-47d9-9a6b-1de04eea2c87.jpg)
+![IMG_8176](https://user-images.githubusercontent.com/37383368/138297182-0538ee18-2757-4815-a1f9-cca965dfae89.jpg)
+![IMG_8178](https://user-images.githubusercontent.com/37383368/138297185-a9cff41b-4cdd-4c60-9389-36f0ce78936a.jpg)
+![IMG_8180](https://user-images.githubusercontent.com/37383368/138297186-b921ec3f-c323-49bb-bb8e-3ae06b56fe31.jpg)
+![IMG_8186](https://user-images.githubusercontent.com/37383368/138297189-36cf3ea8-0012-4e1a-b2e4-10df2e610a4e.jpg)
+![IMG_8189](https://user-images.githubusercontent.com/37383368/138297192-5943335d-8534-41fc-b95d-e00f1c9575db.jpg)
+![IMG_8192](https://user-images.githubusercontent.com/37383368/138297195-1281f383-8887-4faf-be34-2157f041913a.jpg)
+![IMG_8197](https://user-images.githubusercontent.com/37383368/138297197-37e9f40f-193b-401f-be07-b48c452176a3.jpg)
+![IMG_8200](https://user-images.githubusercontent.com/37383368/138297198-6e52447d-9c54-4a50-beeb-e6b34f9ce313.jpg)
+![IMG_8201](https://user-images.githubusercontent.com/37383368/138297202-cc6855f4-7c7a-4e24-b6b3-605cf1eed012.jpg)
