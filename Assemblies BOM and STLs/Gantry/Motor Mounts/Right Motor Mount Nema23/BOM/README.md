@@ -1,3 +1,5 @@
+BOM is for one side only. 
+(Note: If you plan running Nema23 steppers, 1:1 pulley config is required, meaning the 40t pulley is replaced by a 20t)
 ![BOMnema23Right](https://user-images.githubusercontent.com/37383368/138204300-c44312c2-4813-4195-9d05-306c8275a6fb.PNG)
 ![image](https://user-images.githubusercontent.com/37383368/138201341-8a063788-ba26-487d-9686-57b572709e24.png)
 
