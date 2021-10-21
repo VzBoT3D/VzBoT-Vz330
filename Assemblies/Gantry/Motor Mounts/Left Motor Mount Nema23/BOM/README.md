@@ -8,5 +8,5 @@
 | 1       | M4 Nut     | ![M4_Nut](https://user-images.githubusercontent.com/37383368/138198966-d89f4ccb-3a82-4c38-bcd7-c7c7a081ff2f.png)   |    | https://s.click.aliexpress.com/e/_9RWMof |
 | 2       | M3 25mm     | ![M3x25_sockethead](https://user-images.githubusercontent.com/37383368/138199049-b7ffc483-9a05-4684-94bc-bb140d417187.png)   | For top cover   | https://s.click.aliexpress.com/e/_9RWMof |
 | 4       | M5 20mm     | ![M5x20_sockethead](https://user-images.githubusercontent.com/37383368/138199111-c433867a-6a99-4cee-a3a7-ab1efb781d10.png)   | For Motor   | https://s.click.aliexpress.com/e/_9RWMof |
-| 1       | Gt2 20teeh pulley           | ![Pulley-20teeth GT2 6mm+5mm bore](https://user-images.githubusercontent.com/37383368/137785091-7e4211e4-f66a-48da-8b55-a3f79002b99c.png)	 |    | https://s.click.aliexpress.com/e/_ATlwQj |
+| 2       | Gt2 20teeh pulley           | ![Pulley-20teeth GT2 6mm+8mm bore](https://user-images.githubusercontent.com/37383368/137785091-7e4211e4-f66a-48da-8b55-a3f79002b99c.png)	 | Buy only if your motor shaft is not 8mm   | https://s.click.aliexpress.com/e/_AaZDP7 |
 | 1       | Nema 23 Motor              | ![Nema17](https://user-images.githubusercontent.com/37383368/137785760-412aa931-21f3-4970-a272-1612ccd4b098.png)   | Your choice of brand (See main BOM spread sheet for recommended ones with links  ||
