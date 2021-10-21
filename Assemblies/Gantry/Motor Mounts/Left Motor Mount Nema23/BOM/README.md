@@ -10,4 +10,4 @@
 | 4       | M5 20mm     | ![M5x20_sockethead](https://user-images.githubusercontent.com/37383368/138199111-c433867a-6a99-4cee-a3a7-ab1efb781d10.png)   | For Motor   | https://s.click.aliexpress.com/e/_9RWMof |
 | 4       | M5 Lock Nuts     | ![M5_Nylon_lock_Nut](https://user-images.githubusercontent.com/37383368/138200156-8602ab94-a9af-4ca3-b625-01faf3000086.png)   | For Motor   | https://s.click.aliexpress.com/e/_9iSwtx |
 | 2       | Gt2 20teeh pulley           | ![Pulley-20teeth GT2 6mm+8mm bore](https://user-images.githubusercontent.com/37383368/137785091-7e4211e4-f66a-48da-8b55-a3f79002b99c.png)	 | Buy only if your motor shaft is not 8mm   | https://s.click.aliexpress.com/e/_AaZDP7 |
-| 1       | Nema 23 Motor              | ![Nema17](https://user-images.githubusercontent.com/37383368/137785760-412aa931-21f3-4970-a272-1612ccd4b098.png)   | Your choice of brand (See main BOM spread sheet for recommended ones with links  ||
+| 1       | Nema 23 Motor              | ![Nema17](https://user-images.githubusercontent.com/37383368/137785760-412aa931-21f3-4970-a272-1612ccd4b098.png)   | Your choice of brand (Stepper or Servos) 6.35 or 8mm shafts)  ||
