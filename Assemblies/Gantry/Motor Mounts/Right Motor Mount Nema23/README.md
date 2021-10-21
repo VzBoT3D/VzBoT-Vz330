@@ -1,1 +1,1 @@
-![Left Motor Mount Nema23](https://user-images.githubusercontent.com/37383368/138017278-fd0e0d5b-7895-4dbd-93f1-51f5f2cc44c4.PNG)
+![Right Motor Mount Nema23](https://user-images.githubusercontent.com/37383368/138204532-f9cbfa21-ca38-42eb-9229-42de5eca7819.PNG)
