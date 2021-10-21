@@ -1,4 +1,4 @@
-![BOM](https://user-images.githubusercontent.com/37383368/138017431-b9862437-260c-4fbd-80b7-be02b68d310f.PNG)
+![image](https://user-images.githubusercontent.com/37383368/138201050-ba8b4e51-5ad0-4d31-9375-22bbeb0d2298.png)
 
 | Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
