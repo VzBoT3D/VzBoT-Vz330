@@ -1,3 +1,4 @@
+BOM is for 1 side. You will need 2 of these
 ![Leadscrew bracket_Single motor](https://user-images.githubusercontent.com/37383368/138382196-353973f8-71c1-47d6-aa3e-1203a301ff08.gif)
 
 ![Z Upper Rod  Mount](https://user-images.githubusercontent.com/37383368/138377764-17375651-5514-4bd7-b6d9-c2c15436ed5c.gif)
