@@ -1,4 +1,4 @@
-![Z6](https://user-images.githubusercontent.com/37383368/138376771-3f92b297-782c-40d5-816d-3d200c83b0b5.png)
+![Z6](https://user-images.githubusercontent.com/37383368/138383950-2b6f4de4-4cbc-4178-a114-e7b00fe26495.png)
 ![Z2](https://user-images.githubusercontent.com/37383368/138376781-d896d4c0-76f7-4da3-b53a-84b4b42e47ca.png)
 ![Z4](https://user-images.githubusercontent.com/37383368/138376786-1f964605-9783-481a-8ded-243f6048a6c2.png)
 ![Z2](https://user-images.githubusercontent.com/37383368/138376791-d5ad47ed-d772-4aed-b01d-296181ebdbe7.png)
