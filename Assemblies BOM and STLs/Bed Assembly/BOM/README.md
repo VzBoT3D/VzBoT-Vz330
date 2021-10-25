@@ -1,2 +1,1 @@
-
-![Front Idlers Mounts](https://user-images.githubusercontent.com/37383368/137978058-2d4ac40f-b311-48d3-bbe5-eaf6658bac0b.png)
+![BedAssemblybom](https://user-images.githubusercontent.com/37383368/138749011-b5b951f9-48df-43e4-a989-0d8081970531.PNG)
