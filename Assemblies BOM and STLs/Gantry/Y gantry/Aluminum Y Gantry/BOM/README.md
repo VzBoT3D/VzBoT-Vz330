@@ -1,4 +1,6 @@
-BOM is for one side only. You will need 2
+BOM is for one side only. You will need 2. 
+(Note: Since Carbon fiber dimensions are not always the same, you may need to add M3 nylon washers (or printed) between aluminum part and cabon tube. My tubes were 20.85mm and 20.65mm. I used the 20.85mm one with no washer. So depending on your luck, you mayn need to add washers)
+
 ![Y gantry aluminum v7](https://user-images.githubusercontent.com/37383368/137658941-ec4aa107-41c0-4470-adfa-1b0e90ed75c5.gif)
 
 | Quantity | Part                         | Comment              | Image  | Links  |
