@@ -1,4 +1,5 @@
-![Single Z motor bracket](https://user-images.githubusercontent.com/37383368/138626059-ea999c14-8a24-40b6-ab32-0158955a9a9a.gif)
+![Single Z motor bracket](https://user-images.githubusercontent.com/37383368/138626860-e47ffafa-6411-44fc-bb7e-20bf96c841e3.gif)
+
 
 | Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
