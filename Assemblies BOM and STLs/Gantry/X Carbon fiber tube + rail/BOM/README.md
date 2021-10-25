@@ -1,5 +1,4 @@
-![x carbon fiber tube + rail](https://user-images.githubusercontent.com/37383368/138724061-03d3c598-cded-4404-9b91-be89481ed333.gif)
-
+![x carbon fiber tube + rail](https://user-images.githubusercontent.com/37383368/138726384-6cb52031-3131-47fd-98e0-cadc4a8e028c.gif)
 
 | Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
