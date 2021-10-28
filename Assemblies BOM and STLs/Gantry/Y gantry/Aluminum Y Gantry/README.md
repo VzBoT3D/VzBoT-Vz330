@@ -1,4 +1,4 @@
-Design Credit: Diemex
+Design Credit of the aluminum backet: Diemex 
 
 Notes:
   -Left side has a X limit switch stopper.
