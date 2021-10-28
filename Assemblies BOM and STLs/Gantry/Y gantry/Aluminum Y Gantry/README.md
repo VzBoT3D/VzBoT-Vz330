@@ -1,3 +1,5 @@
+Design Credit of the aluminum backet: Diemex 
+
 Notes:
   -Left side has a X limit switch stopper.
   -The back spacer is rotated 180degree from left to right gantry so it helps with belt clearance

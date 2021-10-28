@@ -1,6 +1,6 @@
 ![BedAssemblybom](https://user-images.githubusercontent.com/37383368/138749011-b5b951f9-48df-43e4-a989-0d8081970531.PNG)
 
-Your choice of printing surface. If you use the stock X5S heat bed, a glass on top is recommended. We will have a Cast Aluminum Bed plate soon for sale.
+Your choice of printing surface (Look in the main printer BOM for suggestion). If you use the stock X5S heat bed, a glass on top is recommended. We will have a Cast Aluminum Bed plate soon for sale.
 If you still wish to add a higher heating power to your X5S heat bed, check the main BOM for 310x310 silicon heatpad
 
 | Quantity | Part                         | Image             | comment  | Links  |
@@ -15,5 +15,6 @@ If you still wish to add a higher heating power to your X5S heat bed, check the 
 | 1       | Bed spring kit |                                                      | you need 6  | https://s.click.aliexpress.com/e/_AFy0un  or https://s.click.aliexpress.com/e/_9i6SRT |
 | 4       | L internal corner Joiner  |  ![image](https://user-images.githubusercontent.com/37383368/138750456-f53ed7d4-5294-4023-961c-586d76900bdd.png)   |  | https://s.click.aliexpress.com/e/_A7n2zX |
 | 1       | 330x330 X5S heat bed |  | We will soon have a custom bed plate 6mm | https://s.click.aliexpress.com/e/_9QWpAB |
-
+| 2       | 390mm 2020 profile | ![image](https://user-images.githubusercontent.com/37383368/138796132-2633c5c2-7e22-4e87-a046-c664f2259d13.png) | | |
+| 2       | 260mm 2020 profile | ![image](https://user-images.githubusercontent.com/37383368/138796132-2633c5c2-7e22-4e87-a046-c664f2259d13.png) | | | 
 
