@@ -1,6 +1,6 @@
 BOM is for one side only. You will need 2. 
 
- (Note: Since Carbon fiber tube dimensions are not always the same, you may need to add M3 nylon washers (or printed) between aluminum part and cabon tube. My tubes were 20.85mm and 20.65mm. I used the 20.85mm one with no washer. So depending on your luck, you may need to add washers)
+ (Note: Since Carbon fiber tube dimensions are not always the same, you may need to add spacers (printed) between aluminum part and cabon tube. My tubes were 20.85mm and 20.65mm. I used the 20.85mm one with no washer. So depending on your luck, you may need to add spacers. See in the STL folder. you can scale it in Z in your slicer to fit your tube)
 
 ![Y gantry aluminum v7](https://user-images.githubusercontent.com/37383368/137658941-ec4aa107-41c0-4470-adfa-1b0e90ed75c5.gif)
 
