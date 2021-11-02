@@ -1,5 +1,6 @@
 BOM is for one side only. You will need 2. XendStop only needed on the left side.
-![Y gantry printed](https://user-images.githubusercontent.com/37383368/137656992-d3bec6f1-1655-4f43-b02f-55e15b6b0665.gif)
+![Y gantry printed ](https://user-images.githubusercontent.com/37383368/139766038-f2bf5667-59da-416f-b189-4333ace66555.gif)
+
 | Quantity | Part                         | Comment              | Image  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
 | 4       | M3 10mm Bolts                |                      | ![M3x10_sockethead](https://user-images.githubusercontent.com/37383368/137555951-bb03f918-6a68-4438-8133-c0722c0724b8.png)	        | |
