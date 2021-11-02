@@ -1,10 +1,8 @@
-This is for a single assembly. You will need 4
-![Z Lower Rod Mount](https://user-images.githubusercontent.com/37383368/138379875-604f7fe5-e3de-4d35-aff0-fbd5cb3d638c.gif)
+![image](https://user-images.githubusercontent.com/37383368/139773088-229c954d-06f1-491b-a25d-99fb761f2eb4.png)
 
 | Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
-| 2       | M4 10mm Bolt      | ![M4x10_sockethead](https://user-images.githubusercontent.com/37383368/138378191-8c7cd25b-7301-48db-adb6-9778f5427b2c.png) |  |  https://s.click.aliexpress.com/e/_9RMap3  |
-| 2       | M4 T Nuts                    | ![M4 Tnuts](https://user-images.githubusercontent.com/37383368/137783436-4e1c6bae-e78c-47b5-b697-86cc7f41cef6.PNG) | | https://s.click.aliexpress.com/e/_AsGUWF |
-| 1       | M3 15mm or 16mm Bolt   | ![M3x15_sockethead](https://user-images.githubusercontent.com/37383368/138377984-4a9495f8-96d1-4100-b75f-854e417a6540.png) |  | https://s.click.aliexpress.com/e/_9RMap3 |
-| 1       | M3 20mm Bolt   | ![M3x20_sockethead](https://user-images.githubusercontent.com/37383368/138380108-e46f6ecc-8347-4887-a00f-4ea8e5e01eab.png) |  | https://s.click.aliexpress.com/e/_9RMap3 |
-| 2       | M3 Nut     | ![M3_Nut](https://user-images.githubusercontent.com/37383368/138378072-71b793a3-e16b-4289-8b31-f0a9b3e8b4f9.png)  |    | https://s.click.aliexpress.com/e/_AFJSUp |
+| 6       | M3 8mm Bolt   | ![M3x20_sockethead](https://user-images.githubusercontent.com/37383368/138380108-e46f6ecc-8347-4887-a00f-4ea8e5e01eab.png) |  | https://s.click.aliexpress.com/e/_9RMap3 |
+| 6       | M3 Nut     | ![M3x8_sockethead](https://user-images.githubusercontent.com/37383368/139773219-61b55870-413e-4b46-aaaa-04eeb7b0615d.png)  |    | https://s.click.aliexpress.com/e/_AFJSUp |
+| 1       | M4 10mm Bolt      | ![M4x10_sockethead](https://user-images.githubusercontent.com/37383368/138378191-8c7cd25b-7301-48db-adb6-9778f5427b2c.png) |  |  https://s.click.aliexpress.com/e/_9RMap3  |
+| 6       | M4 Nut     | ![M4_Nut](https://user-images.githubusercontent.com/37383368/139773342-577feb5c-ef91-4d50-9158-1eb5e9275c0d.png)   |    | https://s.click.aliexpress.com/e/_AFJSUp |
