@@ -10,6 +10,6 @@ https://a360.co/3nlDd2s
 
 
 This project is licensed as
+![image](https://user-images.githubusercontent.com/37383368/139769027-7267da5b-7f58-499d-96bc-e41d164a3aac.png)
 
--Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 https://creativecommons.org/licenses/by-nc/4.0/
