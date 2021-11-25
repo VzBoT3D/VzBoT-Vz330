@@ -19,4 +19,7 @@ One can use the Nova Groove mount (Either the long or the short one. Shorter is 
 - (2x M3 washer behind the M3 14mm bolt)
 ![image](https://user-images.githubusercontent.com/37383368/143497227-5870ce53-d60c-42a5-8fe1-6dfc848a7932.png)
 
+NOTE : We had to leave 1.1mm space between the groove mount and the top to avoid interfering with LGX Mounting bolt. To have better stability/rigidity, one can add a 1.1mm spacer on top of the groovemount. (STL provided in the STL folder)
+
+![image](https://user-images.githubusercontent.com/37383368/143498735-fbd6551f-7e96-4866-a7c8-0f93851d414e.png)
 
