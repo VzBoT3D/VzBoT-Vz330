@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/37383368/143940069-5d3a2d2a-5ee7-445e-a734-2630c3cb6374.png)
+![image](https://user-images.githubusercontent.com/37383368/143946800-38f521bf-74bc-4e2f-98ed-75bc92ce5611.png)
 
 The Rapido hotend can be used with High Flow or Ultra High flow version. Just a change in the fan height adjustment is needed.
 
