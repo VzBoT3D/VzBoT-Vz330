@@ -14,4 +14,4 @@ BOM is for one side only. You will need 2.
 | 1       | 20teeth Gt2 pulley 5mm bore  |                      |![Idler-20tooth GT2 6mm+5mm bore](https://user-images.githubusercontent.com/37383368/137568220-210812a1-030e-484e-b300-b46fc85ad540.png)	        | https://s.click.aliexpress.com/e/_ArdVmB |
 | 1       | Noteeth Gt2 pulley 5mm bore  |                      |	 ![Idler-notooth GT2 6mm+5mm bore](https://user-images.githubusercontent.com/37383368/137568225-e9d932f8-454c-4998-83cd-08d55784b56d.png)       | https://s.click.aliexpress.com/e/_ArdVmB |
 | 1       | Aluminum Gantry              |                      |	![Alu gantry](https://user-images.githubusercontent.com/37383368/137568268-bece867b-26bb-46b2-a193-4a470b58ea98.PNG)        | https://s.click.aliexpress.com/e/_9Ghgwj |
-| 1 pack | aluminum spacer |    I Personnaly uesed this cut to size for spacers | ![image](https://user-images.githubusercontent.com/37383368/138571739-c30052bc-9b65-4080-87a7-bdbd805be21a.png) |https://s.click.aliexpress.com/e/_ArFJHX |
+
