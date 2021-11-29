@@ -17,6 +17,7 @@ One can use the Nova Groove mount (Either the long or the short one. Shorter is 
 - (2x M3 10mm of your choice - To secure the nova in the groove mount clamp)
 - (2x M3 14mm of your choice - To secure the adapter to the top plate)
 - (2x M3 washer behind the M3 14mm bolt)
+- 
 ![image](https://user-images.githubusercontent.com/37383368/143942579-d484e835-fdc3-4565-8a4c-c197477570eb.png)
 
 NOTE : We had to leave 1.1mm space between the groove mount and the top to avoid interfering with LGX Mounting bolt. To have better stability/rigidity, one can add a 1.1mm spacer on top of the groovemount. (STL provided in the STL folder)
