@@ -3,7 +3,7 @@ Nova Hotend has 2 options here. Since the Hotend is very short in lenght when yo
 # OPTION 1: 
 One can use the LGX Lite Adapter plate plus a 2mm printed spacer to lower it down so it sits low enough to reach the bed and the fan duct at its highest position
 
-![image](https://user-images.githubusercontent.com/37383368/143936072-196081cf-89c2-407a-9f0d-9b192ede7a1e.png)
+![image](https://user-images.githubusercontent.com/37383368/143973557-739ff3e6-f785-4539-b16d-fc7922ab44d5.png)
 
 ![image](https://user-images.githubusercontent.com/37383368/143942257-a77113ba-d029-484b-9abf-eee4c4fa822c.png)
 
