@@ -5,7 +5,7 @@ Due to it's weight, it is highly suggested to add lower braces to support the M+
 ![image](https://user-images.githubusercontent.com/37383368/143982841-a700927a-6d3a-4ea6-bcc3-9d1d4229d379.png)
 
 
-![image](https://user-images.githubusercontent.com/37383368/143985257-3a80b09e-9f90-499d-a6c0-d0f7d603741f.png)
+![image](https://user-images.githubusercontent.com/37383368/143985275-7765dd37-95b5-4ddc-955a-6463666d065a.png)
 
 # Hardware needed:
 
