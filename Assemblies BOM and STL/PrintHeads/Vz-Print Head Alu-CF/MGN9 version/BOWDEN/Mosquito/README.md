@@ -1,7 +1,5 @@
-![image](https://user-images.githubusercontent.com/37383368/143940069-5d3a2d2a-5ee7-445e-a734-2630c3cb6374.png)
+![image](https://user-images.githubusercontent.com/37383368/143972372-db25abd0-60bf-42af-921a-5ec26b59bfe3.png)
 
-The Rapido hotend can be used with High Flow or Ultra High flow version. Just a change in the fan height adjustment is needed.
+The Mosquito and Mosquito Magnum
 
-![image](https://user-images.githubusercontent.com/37383368/143941990-cbd442ae-7b0b-421b-ab84-ef9cc7189d13.png)
 
-(4xM2.5 6mm bolts)
