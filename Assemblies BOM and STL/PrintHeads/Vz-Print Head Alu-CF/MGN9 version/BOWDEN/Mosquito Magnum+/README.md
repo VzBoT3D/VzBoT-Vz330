@@ -13,6 +13,7 @@ Due to its weight, it is highly suggested to add lower brace to support the M+. 
 - (2xM3 6mm Ultra low profile screws - To attach to top plate 
 - (Titanium sheet 0.3mm  https://s.click.aliexpress.com/e/_ACf8Xs )
 
-
+![image](https://user-images.githubusercontent.com/37383368/143983555-904d21c1-04ec-47c7-8d3e-ba36fb0adce2.png)
+ 
 
 
