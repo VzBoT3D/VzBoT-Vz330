@@ -1,6 +1,6 @@
-The Mosquito Magnum+ is a very long type of hotend, and a bit heavier than others. You can bolt it directly to the top plate without the need for the adapter plate in a bowden configuration. 
+The Mosquito Magnum+ is a very long type of hotend, and a bit heavier than others. When using bowden configuration, you can not bolt the M+ to the top plate directly as the bolts will interfere with the Bowden pneumatic fitting (PC4-M4). So you have to use the adapter plate.
 
-![image](https://user-images.githubusercontent.com/37383368/143972614-5d700da4-d617-4017-9931-34327832fc6b.png)
+![image](https://user-images.githubusercontent.com/37383368/143982841-a700927a-6d3a-4ea6-bcc3-9d1d4229d379.png)
 
 
 ![image](https://user-images.githubusercontent.com/37383368/143973062-6ba480ec-902e-4551-bc07-955ee4bbb1b0.png)
