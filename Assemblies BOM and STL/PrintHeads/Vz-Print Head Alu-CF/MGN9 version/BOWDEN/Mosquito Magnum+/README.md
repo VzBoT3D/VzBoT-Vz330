@@ -1,4 +1,4 @@
-The Mosquito and Mosquito Magnum are very compact and short lenght hotend. In order to to have it sit low enough to reach the bed and the fan duct, one needs to use the adapter plate. However, if you use a Volcomosq/NF Crazy Volcano, you can bolt it directly to the top plate without the adapter plate.
+The Mosquito Magnum+ is a very long type of hotend, and a bit heavier than others. You can bolt it directly to the top plate without the need for the adapter plate in a bowden configuration. 
 
 ![image](https://user-images.githubusercontent.com/37383368/143972614-5d700da4-d617-4017-9931-34327832fc6b.png)
 
