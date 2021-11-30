@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/37383368/143935947-0d3f1881-d188-4f5e-9945-346909ea9339.png)
+![image](https://user-images.githubusercontent.com/37383368/143971567-44369ad1-7b0c-44c8-aa89-7cca9905f5b1.png)
 
 Groove mount can fit multiple hotends. 
 
