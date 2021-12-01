@@ -39,5 +39,5 @@ Assembling the print head is straight forward.
 # Step 6: Install your favorite extruder/hotend combo.
 Refer to the sections above (or links down below)for instructions and BOM
 - [BOWDEN](https://github.com/VzBot3D/VzBot/tree/master/Assemblies%20BOM%20and%20STL/PrintHeads/Vz-Print%20Head%20Alu-CF/MGN9%20version/BOWDEN)
-- [Direct Drive(https://github.com/VzBot3D/VzBot/tree/master/Assemblies%20BOM%20and%20STL/PrintHeads/Vz-Print%20Head%20Alu-CF/MGN9%20version/Direct_Drive)
+- [Direct Drive](https://github.com/VzBot3D/VzBot/tree/master/Assemblies%20BOM%20and%20STL/PrintHeads/Vz-Print%20Head%20Alu-CF/MGN9%20version/Direct%20Drive)
 
