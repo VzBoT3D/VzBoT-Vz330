@@ -28,4 +28,10 @@ Assembling the print head is straight forward.
 - 2 x M3 8mm Ultra low profile bolts
 - 2 x M3 Nuts
 
-# Step 5: Install 
+# Step 5: Install The 5015 fan and the upper fan duct
+![image](https://user-images.githubusercontent.com/37383368/144166312-fd7eb451-b153-48ac-b40d-9c6b79799e29.png)
+## BOM needed:
+- 1 x M3 8mm  bolt
+- 1 x M3 20mm bolt (For the right side when facing the printer. If you plan on using a Bltouch or other probe, you will need a 25mm bolt)
+- 1 x M3 25mm bolt (For the left side when facing the printer. (Bolt and nuts are reverse compared to others. It is on purpose to avoid interfering with belt)
+- 3 x M3 Nuts
