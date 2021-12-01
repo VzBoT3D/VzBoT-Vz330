@@ -4,6 +4,7 @@ Assembling the print head is straight forward.
 ![image](https://user-images.githubusercontent.com/37383368/144164913-77f6e690-bd68-4acc-98df-f23f697ef434.png)
 ## BOM needed:
 - 4xM3 6mm Ultra low profile bolts
+- cable holder (printed)
 
 # Step 2 : Assembling the carriage
 - Install the top plate on the X MGN9 slider
