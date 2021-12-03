@@ -4,6 +4,7 @@ Assembling the print head is straight forward.
 ![image](https://user-images.githubusercontent.com/37383368/144164913-77f6e690-bd68-4acc-98df-f23f697ef434.png)
 ## BOM needed:
 - 4xM3 6mm Ultra low profile bolts
+- cable holder (printed)
 
 # Step 2 : Assembling the carriage
 - Install the top plate on the X MGN9 slider
@@ -33,7 +34,7 @@ Assembling the print head is straight forward.
 - For the back, simply loop the belt arround the pillar, and give it a pre-tention on the belt, then attach it with a zip tie, or a printed belt clip (Found in the STL folder).
 
 # Step 5.1
-Take a rum shot. This step is definately needed after the belts job. It take a bit of patience to route the belts in the front idlers, with a small screw driver, its very doable
+Take a rum shot. This step is definately needed after the belts job. It takes a bit of patience to route the belts in the front idlers, with a small screw driver, its very doable
 
 # Step 6: Install the fan duct
 ![image](https://user-images.githubusercontent.com/37383368/144167630-18dacba9-8475-4689-8376-9929f1c42db1.png)
