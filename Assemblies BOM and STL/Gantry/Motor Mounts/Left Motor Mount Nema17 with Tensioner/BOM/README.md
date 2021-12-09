@@ -10,9 +10,9 @@ If you dont have the top cover with hinges, you will need to replace the hinges 
 | 4       | M4 T Nuts                    | ![M4 Tnuts](https://user-images.githubusercontent.com/37383368/137783436-4e1c6bae-e78c-47b5-b697-86cc7f41cef6.PNG) | | https://s.click.aliexpress.com/e/_AsGUWF |
 | 2       | M3 35mm Bolts     | ![M3x35_buttonhead](https://user-images.githubusercontent.com/37383368/137975709-def38522-de9a-4a9c-a5c0-3ceb8460014e.png) | Your choice of socket or button head | 	https://s.click.aliexpress.com/e/_9RWMof https://s.click.aliexpress.com/e/_9RMap3 |
 | 2       | M3 6mm Flat head Bolts     | ![M3x6_flathead](https://user-images.githubusercontent.com/37383368/145321100-0877e842-d893-4253-aebc-328272a76ab5.png)  |    | https://s.click.aliexpress.com/e/_9jYeAP |
-| 2       | M3 8mm Flat head Bolts     | ![M3x8_flathead](https://user-images.githubusercontent.com/37383368/145320969-d6eb4688-62a0-4a21-b4ce-fd347654fa61.png)  |    | https://s.click.aliexpress.com/e/_9jYeAP |
+| 2       | M4 8mm Flat head Bolts     |![M4x8_flathead](https://user-images.githubusercontent.com/37383368/145322176-9b518336-47b6-4c54-a962-00133a943ba3.png)   |    | https://s.click.aliexpress.com/e/_9jYeAP |
 | 1       | M4 25or30mm set scew (Stud) | ![M4 set screw 30mm](https://user-images.githubusercontent.com/37383368/145321299-a2181df7-3068-41a8-b13c-7d6f86d809b2.PNG)       |                |  https://s.click.aliexpress.com/e/_ASzGA4               |
-| 1       | M4 Nut nylon lock |        |                |                 |
-| 1       | M4 Nut  |        |                |                 |
+| 1       | M4 Nut nylon lock |  ![M4_Nut_nylon_lock](https://user-images.githubusercontent.com/37383368/145322770-bacfee3d-7a44-4a12-b477-26648e3e31bf.png)      |                | https://s.click.aliexpress.com/e/_9iSwtx                |
+| 1       | M4 Nut  | ![M4_Nut](https://user-images.githubusercontent.com/37383368/145323020-f37e047d-bace-47ec-9054-5e3ad4f6fe83.png)       |                | https://s.click.aliexpress.com/e/_AFJSUp                | 
 | 1       | Gt2 20teeh pulley           | ![Pulley-20teeth GT2 6mm+5mm bore](https://user-images.githubusercontent.com/37383368/137785091-7e4211e4-f66a-48da-8b55-a3f79002b99c.png)	 |    | https://s.click.aliexpress.com/e/_ATlwQj |
 | 1       | Nema 17 Motor              | ![Nema17](https://user-images.githubusercontent.com/37383368/137785760-412aa931-21f3-4970-a272-1612ccd4b098.png)   | Your choice of brand (See main BOM spread sheet for recommended ones with links  ||
