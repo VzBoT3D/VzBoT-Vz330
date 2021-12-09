@@ -1,9 +1,9 @@
-![Printed motormounts with tensioners](https://user-images.githubusercontent.com/37383368/145152109-67a7ac33-0c8b-4652-a101-87ea19651aaa.gif)
-
 - The tensioner is meant to work with the Top cover hinges found here. 
 - The adjustement knob is sitting in the hinge assembly. 
 - If you dont have the top cover with hinges, you will need to replace the hinges with corner braces found here. (You can then use smaller M4 set screws, 25mm instead of 30mm (studs)
 
+
+![Printed motormounts with tensioners](https://user-images.githubusercontent.com/37383368/145152109-67a7ac33-0c8b-4652-a101-87ea19651aaa.gif)
 
 | Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
