@@ -3,7 +3,8 @@
 - If you dont have the top cover with hinges, you will need to replace the hinges with corner braces found here. (You can then use smaller M4 set screws, 25mm instead of 30mm (studs)
 
 
-![Printed motormounts with tensioners](https://user-images.githubusercontent.com/37383368/145152109-67a7ac33-0c8b-4652-a101-87ea19651aaa.gif)
+![Printed motormounts with tensioners](https://user-images.githubusercontent.com/37383368/145325381-8c050365-3656-4147-8f79-999287b53896.gif)
+
 
 | Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
