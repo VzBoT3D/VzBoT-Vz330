@@ -1,7 +1,6 @@
 ![image](https://user-images.githubusercontent.com/37383368/145327317-4354e6d6-a19a-40f4-99f3-74a41906d03a.png)
 
-# Note:
-- BOM is for one side only. You need x2 for both sides
+# Note: BOM is for one side only. You need x2 for both sides
 
 | Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
