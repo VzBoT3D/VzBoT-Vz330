@@ -1,5 +1,1 @@
-Full idlers and Belt Kit high quality: https://s.click.aliexpress.com/e/_A4TO38 
-
-![image](https://user-images.githubusercontent.com/37383368/138017986-d01c6e7f-80cc-43e6-8a3a-786e9b687c0f.png)
-![image](https://user-images.githubusercontent.com/37383368/138017943-f8ce1ec6-bfc7-497a-8ac4-c70e67de8ebf.png)
-
+![image](https://user-images.githubusercontent.com/37383368/145326149-0c7f50ab-b33d-4aca-a35e-0948500e6dd3.png)
