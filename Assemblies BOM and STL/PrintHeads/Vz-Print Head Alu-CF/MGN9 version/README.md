@@ -18,7 +18,7 @@ Assembling the print head is straight forward.
 # Step 3: Mounting the the X stop switch (Optional if you don't use sensorless homing)
 ![image](https://user-images.githubusercontent.com/37383368/144165516-71b350dc-e5e7-4ad3-9994-2b5eeb7d3ebf.png)
 ## BOM needed:
-- 2 x M3 6mm Ultra low profile bolts
+- 2 x M2.5 6mm Ultra low profile bolts
 - 2 x M2 screws (not included in the kit)
 - Microswitch https://s.click.aliexpress.com/e/_AL9anj
 - Switch mount (Printed)
