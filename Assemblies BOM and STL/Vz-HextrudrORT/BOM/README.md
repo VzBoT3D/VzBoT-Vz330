@@ -10,3 +10,4 @@
 | 5       | M3 Nuts  | ![M3_Nut](https://user-images.githubusercontent.com/37383368/146019006-72da970d-280e-4b80-8444-5fd5079a783e.png)   |     | https://s.click.aliexpress.com/e/_AFJSUp |
 | 1       | Push fit connector  | ![push fit connector](https://user-images.githubusercontent.com/37383368/146020643-7de56373-1956-430e-af35-fa52e62a8844.PNG)   |     | https://s.click.aliexpress.com/e/_AoAejk |
 | 1       | BMG hardware kit  | ![BMGkit](https://user-images.githubusercontent.com/37383368/146021210-b454fb64-363f-47c2-85e7-1beb848fa858.PNG)   |     | https://s.click.aliexpress.com/e/_A7iJeQ |
+| 1       | LDO Nema 14 17 or 20mm  | ![Nema14-round](https://user-images.githubusercontent.com/37383368/146022759-8210ba7f-3383-424f-939b-05642fead742.png)   | 20mm suggested for higher TQ and more more amp    | https://s.click.aliexpress.com/e/_Af9aBM |
