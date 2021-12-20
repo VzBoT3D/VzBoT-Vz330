@@ -12,8 +12,8 @@ Assembling the print head is straight forward.
 ![image](https://user-images.githubusercontent.com/37383368/144165073-5143faec-5863-466d-8608-cd1a1402f1c1.png)
 
 ## BOM needed:
-- 8xM3 6mm Ultra low profile bolts (For all 8 corners)
-- 4xM3 4mm Ultra low profile bolts (for mounting top plate to MANG9 slider)
+- 12xM3 6mm Ultra low profile bolts (For all 8 corners)
+
 
 # Step 3: Mounting the the X stop switch (Optional if you don't use sensorless homing)
 ![image](https://user-images.githubusercontent.com/37383368/144165516-71b350dc-e5e7-4ad3-9994-2b5eeb7d3ebf.png)
