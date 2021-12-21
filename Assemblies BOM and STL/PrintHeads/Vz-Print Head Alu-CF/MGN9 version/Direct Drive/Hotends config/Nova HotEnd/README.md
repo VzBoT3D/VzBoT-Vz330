@@ -1,7 +1,7 @@
 Nova Hotend has 2 options here. Since the Hotend is very short in lenght when you do not use the Groove mount.
 
 # OPTION 1: 
-One can use the LGX Lite Adapter plate plus a 2mm printed spacer to lower it down so it sits low enough to reach the bed and the fan duct at its highest position
+One can use the Adapter plate plus a 2mm printed spacer to lower it down so it sits low enough to reach the bed and the fan duct at its highest position
 
 ![image](https://user-images.githubusercontent.com/37383368/143973557-739ff3e6-f785-4539-b16d-fc7922ab44d5.png)
 
