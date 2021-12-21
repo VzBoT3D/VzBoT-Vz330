@@ -30,9 +30,10 @@ Assembling the print head is straight forward.
 - 2 x M3 Nuts
 
 # Step 5: Install the belts.
+- make sure motor mounts are a lowest tension possible first.
 - Start by the front. Insert the end of the belt through the side slot and loop the belt on itself. Insert a piece of filament (6mm) in the loop and then slowly pull the belt back in the slot until secures in place.
 - For the back, simply loop the belt arround the pillar, and give it a pre-tention on the belt, then attach it with a zip tie, or a printed belt clip (Found in the STL folder).
-
+https://youtu.be/Ibi27Toh-pg
 # Step 5.1
 Take a rum shot. This step is definately needed after the belts job. It takes a bit of patience to route the belts in the front idlers, with a small screw driver, its very doable
 
