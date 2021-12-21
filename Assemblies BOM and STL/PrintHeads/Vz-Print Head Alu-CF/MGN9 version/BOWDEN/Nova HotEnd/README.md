@@ -8,7 +8,7 @@ One can use the LGX Lite Adapter plate plus a 2mm printed spacer to lower it dow
 ![image](https://user-images.githubusercontent.com/37383368/143942257-a77113ba-d029-484b-9abf-eee4c4fa822c.png)
 
 ## Hardware needed:
-- (2xM2.5 5mm Ultra Low profile screws - To mount the Nova to the LGX Adapter plate)	
+- (2xM2.5 5mm Ultra Low profile screws - To mount the Nova to the Adapter plate)	
 - (2xM3 6mm Ultra low profile screws - To attach to top plate)
 
 # OPTION 2
