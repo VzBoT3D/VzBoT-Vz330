@@ -12,8 +12,6 @@ One can use the Adapter plate plus a 2mm printed spacer to lower it down so it s
 # OPTION 2
 One can use the Nova Groove mount (Either the long or the short one. Shorter is better here. But both work) with the Groove Mount adapter 
 
-![image](https://user-images.githubusercontent.com/37383368/143936425-15302d97-cc37-4e27-a946-ffe83f58eff8.png)
-
 ![image](https://user-images.githubusercontent.com/37383368/143942579-d484e835-fdc3-4565-8a4c-c197477570eb.png)
 
 ## Hardware needed:
