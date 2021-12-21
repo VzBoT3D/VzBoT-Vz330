@@ -1,7 +1,3 @@
-
-
-![image](https://user-images.githubusercontent.com/37383368/146994624-ce7b2526-0781-4f79-bbb4-ef941b288507.png)
-
 If you wish to upgrade your dragon to a Crazy Volcano:
 -https://s.click.aliexpress.com/e/_9hSPym
 
