@@ -1,10 +1,4 @@
-# Direct Drive has some options, and more will come later.
+# LGX mounts from the bottom using:
 
-## Compatible extruders:
-
-- [Vz-Hextrudort](https://github.com/VzBot3D/VzBot/tree/master/Assemblies%20BOM%20and%20STL/Vz-HextrudrORT) : Will mount from the bottom with the same holes as LGX lite
-- LGX Lite 
-- (Not recommended) Hextrudort  (One can decide to use the official HextrudORT version to bolt directly on the hotend without using the adapter plate. This will work but the disanvatage is that you will have to dismantle the Hextrudort everytime you will want to remove the hotend)
-
-
-
+- 2x M3 8mm Ultra low profiles
+![image](https://user-images.githubusercontent.com/37383368/146996302-d8b3a1c8-3d2d-4184-a92d-1c850a0b9e34.png)
