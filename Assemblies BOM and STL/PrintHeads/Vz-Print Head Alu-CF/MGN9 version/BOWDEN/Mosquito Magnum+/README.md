@@ -15,11 +15,3 @@ Due to it's weight, it is highly suggested to add lower braces to support the M+
 
 
 
-![image](https://user-images.githubusercontent.com/37383368/143983555-904d21c1-04ec-47c7-8d3e-ba36fb0adce2.png)
-![image](https://user-images.githubusercontent.com/37383368/143984007-2a22bd06-bead-4b8c-9b3f-7f3cef70b7b0.png)
-
-Measurement to cut titanium sheet. Or you can print the stancil in the STL folder.
-![image](https://user-images.githubusercontent.com/37383368/143984940-0e7289be-4b25-4ee0-92b1-47c26c67712d.png)
-
-
-
