@@ -32,7 +32,7 @@ Assembling the print head is straight forward.
 # Step 5: Install the belts.
 - make sure motor mounts are a lowest tension possible first.
 - Start by the front. Insert the end of the belt through the side slot and loop the belt on itself. Insert a piece of filament (6mm) in the loop and then slowly pull the belt back in the slot until secures in place.
-- For the back, simply loop the belt arround the pillar, and give it a pre-tention on the belt, then attach it with a zip tie, or a printed belt clip (Found in the STL folder).
+- For the back, simply loop the belt arround the pillar, and give it a pre-tention on the belt, then attach it with a zip tie, or a printed belt clip (Found in the STL folder) . [belt clip](https://github.com/VzBot3D/VzBot/blob/master/Assemblies%20BOM%20and%20STL/PrintHeads/Vz-Print%20Head%20Alu-CF/STLs/Belt_clip.stl)
 - [![belts-installation](https://user-images.githubusercontent.com/37383368/146992012-26b7d4e9-f979-4afb-9dfe-6e3e31b0ecac.jpg))](https://youtu.be/Ibi27Toh-pg)
 
 
