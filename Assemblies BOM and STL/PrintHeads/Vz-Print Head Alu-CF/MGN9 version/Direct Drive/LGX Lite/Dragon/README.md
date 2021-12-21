@@ -1,9 +1,11 @@
-Dragon is mounted using the adapter plate
+
 
 ![image](https://user-images.githubusercontent.com/37383368/146994624-ce7b2526-0781-4f79-bbb4-ef941b288507.png)
 
-Crazy Volcano
-https://s.click.aliexpress.com/e/_9hSPym
+If you wish to upgrade your dragon to a Crazy Volcano:
+-https://s.click.aliexpress.com/e/_9hSPym
+
+# Dragon is mounted using the adapter plate
 
 ![image](https://user-images.githubusercontent.com/37383368/143970433-7cb0ce77-7590-402f-ace5-63538081e3bb.png)
 
