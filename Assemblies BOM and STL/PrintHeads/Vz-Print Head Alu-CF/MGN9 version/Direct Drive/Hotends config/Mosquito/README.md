@@ -2,7 +2,7 @@
 
 # Hardware needed:
 
-- (2xM2.5 5mm Ultra Low profile screws - To mount the Mosquito to the Adapter plate or directly to the top plate)
-- (2xM3 6mm Ultra low profile screws - To attach to top plate (Not needed if you use Volcomosq/Crazy Volcano))
+- (2xM2.5 6mm Ultra Low profile screws - To mount the Mosquito to the Adapter plate)
+- (2xM3 6mm Ultra low profile screws - To attach to top plate)
 
 
