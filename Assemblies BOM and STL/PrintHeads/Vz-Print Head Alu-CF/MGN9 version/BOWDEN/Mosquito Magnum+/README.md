@@ -11,7 +11,4 @@ Due to it's weight, it is highly suggested to add lower braces to support the M+
 
 - (2xM2.5 5mm Ultra Low profile screws - To mount the Mosquito to the Adapter plate)
 - (2xM3 6mm Ultra low profile screws - To attach to top plate 
-- (Titanium sheet 0.3mm  https://s.click.aliexpress.com/e/_ACf8Xs )
-
-
 
