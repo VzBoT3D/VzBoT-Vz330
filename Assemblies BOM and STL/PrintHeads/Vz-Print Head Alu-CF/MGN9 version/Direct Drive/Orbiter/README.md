@@ -7,5 +7,8 @@
 
 2 versions. One that uses inserts and one that you screw directly into plastic. Both version are fine, except the one with inserts can be screwed and unscrewed several times. If you wish to use the one without inserts, you can print a couple of adapter for spare parts when/if you disassemble it.
 
+## Version with inserts:
 ![image](https://user-images.githubusercontent.com/37383368/147398943-5686360a-ea5f-4cdf-bb98-aabe11347dc0.png)
+
+## Version with no inserts
 
