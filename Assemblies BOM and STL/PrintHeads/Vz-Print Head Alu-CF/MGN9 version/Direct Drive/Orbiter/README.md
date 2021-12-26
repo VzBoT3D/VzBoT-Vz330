@@ -1,5 +1,21 @@
-# Vz-Hextrudor mounts the same as LGX lite from the bottom using:
+# Orbiter mounts the same as LGX lite from the bottom using a printed adapter plate:
 
-- 2x M3 8mm Ultra low profiles
-![image](https://user-images.githubusercontent.com/37383368/146996527-2f8cc03b-abcc-4913-8750-c72bf123b999.png)
+- 2x M3 8mm Ultra low profiles - bottom screws
+- 2x M3 8mm (can be socket or button head too) - top screws
+![image](https://user-images.githubusercontent.com/37383368/147399168-6b137a11-c0c7-4553-8b18-e37440db5740.png)
+
+
+# Adapter plate:
+
+2 versions. One that uses inserts and one that you screw directly into plastic. Both version are fine, except the one with inserts can be screwed and unscrewed several times. If you wish to use the one without inserts, you can print a couple of adapter for spare parts when/if you disassemble it.
+
+## Version with inserts:
+
+- 4 M3 short brass inserts (Short inserts on Amazon: https://amzn.to/3sxTUfa)
+![image](https://user-images.githubusercontent.com/37383368/147398943-5686360a-ea5f-4cdf-bb98-aabe11347dc0.png)
+
+## Version with no inserts
+![image](https://user-images.githubusercontent.com/37383368/147399032-80185309-dc87-493a-8c1d-f988fa269c75.png)
+
+
 
