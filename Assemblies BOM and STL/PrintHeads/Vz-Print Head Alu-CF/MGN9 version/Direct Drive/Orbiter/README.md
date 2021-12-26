@@ -11,4 +11,5 @@
 ![image](https://user-images.githubusercontent.com/37383368/147398943-5686360a-ea5f-4cdf-bb98-aabe11347dc0.png)
 
 ## Version with no inserts
+![image](https://user-images.githubusercontent.com/37383368/147399032-80185309-dc87-493a-8c1d-f988fa269c75.png)
 
