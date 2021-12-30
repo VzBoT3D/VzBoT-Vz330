@@ -8,7 +8,7 @@ but can be easily adapted for other 2020 aluminium extrusion frames.
 Further information are in the ![VzBoT-Wiki](https://github.com/VzBot3D/VzBot/wiki)
 
 https://a360.co/3nlDd2s
-![VzBoT-Official](https://user-images.githubusercontent.com/37383368/138384046-678ed2dd-c338-462b-ac97-67c963af4c3d.png)
+![image](https://user-images.githubusercontent.com/37383368/147785916-bb5330f3-55bd-44d5-9cb3-66d482329fdd.png)
 
 
 This project is licensed as
