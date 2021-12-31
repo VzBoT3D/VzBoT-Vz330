@@ -10,7 +10,7 @@
 | Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
 | 6       | M4 10mm Bolts       | ![M4x10_buttonhead](https://user-images.githubusercontent.com/37383368/137975437-13a95273-90d8-47bf-9309-078812efcc5e.png) | Your choice of socket or button head | https://s.click.aliexpress.com/e/_9RWMof https://s.click.aliexpress.com/e/_9RMap3  |
-| 4       | M4 T Nuts                    | ![M4 Tnuts](https://user-images.githubusercontent.com/37383368/137783436-4e1c6bae-e78c-47b5-b697-86cc7f41cef6.PNG) | | https://s.click.aliexpress.com/e/_AsGUWF |
+| 7       | M4 T Nuts                    | ![M4 Tnuts](https://user-images.githubusercontent.com/37383368/137783436-4e1c6bae-e78c-47b5-b697-86cc7f41cef6.PNG) | | https://s.click.aliexpress.com/e/_AsGUWF |
 | 2       | M3 35mm Bolts     | ![M3x35_buttonhead](https://user-images.githubusercontent.com/37383368/137975709-def38522-de9a-4a9c-a5c0-3ceb8460014e.png) | Your choice of socket or button head | 	https://s.click.aliexpress.com/e/_9RWMof https://s.click.aliexpress.com/e/_9RMap3 |
 | 2       | M3 6mm Flat head Bolts     | ![M3x6_flathead](https://user-images.githubusercontent.com/37383368/145321100-0877e842-d893-4253-aebc-328272a76ab5.png)  | To bolt bottom tensioning plate to motor   | https://s.click.aliexpress.com/e/_9jYeAP |
 | 2       | M4 8mm Flat head Bolts     |![M4x8_flathead](https://user-images.githubusercontent.com/37383368/145322176-9b518336-47b6-4c54-a962-00133a943ba3.png)   | Tol bolt middle plate to frame (2 screws in the back)   | https://s.click.aliexpress.com/e/_9jYeAP |
