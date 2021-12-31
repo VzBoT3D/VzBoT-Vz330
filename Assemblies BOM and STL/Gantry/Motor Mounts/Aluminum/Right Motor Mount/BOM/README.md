@@ -2,7 +2,7 @@
 - The tensioner is meant to work with the Top cover hinges found [here](https://github.com/VzBot3D/VzBot/tree/master/Assemblies%20BOM%20and%20STL/enclosure/Top%20cover%20hinges%20with%20tensioner). 
 - The adjustement knob is sitting in the hinge assembly. 
 - If you dont have the top cover with hinges, you will need to replace the hinges with corner braces found [here](https://github.com/VzBot3D/VzBot/tree/master/Assemblies%20BOM%20and%20STL/Frame/Rear%20trop%20frame%20Brace%20for%20motor%20tensioner). (You can then use smaller M4 set screws, 25mm instead of 30mm (studs)
-
+(Please note the pulley is upside down in the gif animation. It was mirrored from the left side gif)
 
 ![output-onlinegiftools](https://user-images.githubusercontent.com/37383368/147801588-13ebb09b-6a61-4574-87ea-038e4baca55f.gif)
 
