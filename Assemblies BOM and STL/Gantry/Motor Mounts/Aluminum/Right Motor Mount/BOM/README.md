@@ -3,14 +3,15 @@
 - The adjustement knob is sitting in the hinge assembly. 
 - If you dont have the top cover with hinges, you will need to replace the hinges with corner braces found [here](https://github.com/VzBot3D/VzBot/tree/master/Assemblies%20BOM%20and%20STL/Frame/Rear%20trop%20frame%20Brace%20for%20motor%20tensioner). (You can then use smaller M4 set screws, 25mm instead of 30mm (studs)
 
-![alu motormounts v6 v38](https://user-images.githubusercontent.com/37383368/147800752-10a87cd6-8b26-40ed-9783-8d4d538543e8.gif)
+
+![output-onlinegiftools](https://user-images.githubusercontent.com/37383368/147801588-13ebb09b-6a61-4574-87ea-038e4baca55f.gif)
 
 
 
 | Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
-| 4       | M4 10mm Bolts       | ![M4x10_buttonhead](https://user-images.githubusercontent.com/37383368/137975437-13a95273-90d8-47bf-9309-078812efcc5e.png) | Your choice of socket or button head. 3 for top plate + 1 on the bottom external right side of the motor plate | https://s.click.aliexpress.com/e/_9RWMof https://s.click.aliexpress.com/e/_9RMap3  |
-| 1       | M4 8mm Bolts       | ![M4x8_buttonhead](https://user-images.githubusercontent.com/37383368/147801041-97f1d144-301c-48bb-9885-73fec1d52f59.png) | Your choice of socket or button head. For the middle plate left side of motor | https://s.click.aliexpress.com/e/_9RWMof https://s.click.aliexpress.com/e/_9RMap3  |
+| 4       | M4 10mm Bolts       | ![M4x10_buttonhead](https://user-images.githubusercontent.com/37383368/137975437-13a95273-90d8-47bf-9309-078812efcc5e.png) | Your choice of socket or button head. 3 for top plate + 1 on the bottom external left side of the motor plate | https://s.click.aliexpress.com/e/_9RWMof https://s.click.aliexpress.com/e/_9RMap3  |
+| 1       | M4 8mm Bolts       | ![M4x8_buttonhead](https://user-images.githubusercontent.com/37383368/147801041-97f1d144-301c-48bb-9885-73fec1d52f59.png) | Your choice of socket or button head. For the middle plate right side of motor | https://s.click.aliexpress.com/e/_9RWMof https://s.click.aliexpress.com/e/_9RMap3  |
 | 7       | M4 T Nuts                    | ![M4 Tnuts](https://user-images.githubusercontent.com/37383368/137783436-4e1c6bae-e78c-47b5-b697-86cc7f41cef6.PNG) | | https://s.click.aliexpress.com/e/_AsGUWF |
 | 2       | M3 35mm Bolts     | ![M3x35_buttonhead](https://user-images.githubusercontent.com/37383368/137975709-def38522-de9a-4a9c-a5c0-3ceb8460014e.png) | Your choice of socket or button head | 	https://s.click.aliexpress.com/e/_9RWMof https://s.click.aliexpress.com/e/_9RMap3 |
 | 2       | M3 6mm button head Bolts     | ![M3x6_buttonhead](https://user-images.githubusercontent.com/37383368/147801110-b59dbdc4-3660-47f2-bd18-aaa4f31d7406.png)  | To bolt bottom tensioning plate to motor   | https://s.click.aliexpress.com/e/_9RWMof |
