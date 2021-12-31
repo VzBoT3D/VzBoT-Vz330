@@ -9,7 +9,7 @@
 
 | Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
-| 4       | M4 10mm Bolts       | ![M4x10_buttonhead](https://user-images.githubusercontent.com/37383368/137975437-13a95273-90d8-47bf-9309-078812efcc5e.png) | Your choice of socket or button head | https://s.click.aliexpress.com/e/_9RWMof https://s.click.aliexpress.com/e/_9RMap3  |
+| 4       | M4 10mm Bolts       | ![M4x10_buttonhead](https://user-images.githubusercontent.com/37383368/137975437-13a95273-90d8-47bf-9309-078812efcc5e.png) | Your choice of socket or button head. 3 for top plate + 1 on the bottom external side of the motor plate | https://s.click.aliexpress.com/e/_9RWMof https://s.click.aliexpress.com/e/_9RMap3  |
 | 1       | M4 8mm Bolts       | ![M4x8_buttonhead](https://user-images.githubusercontent.com/37383368/147801041-97f1d144-301c-48bb-9885-73fec1d52f59.png) | Your choice of socket or button head | https://s.click.aliexpress.com/e/_9RWMof https://s.click.aliexpress.com/e/_9RMap3  |
 | 7       | M4 T Nuts                    | ![M4 Tnuts](https://user-images.githubusercontent.com/37383368/137783436-4e1c6bae-e78c-47b5-b697-86cc7f41cef6.PNG) | | https://s.click.aliexpress.com/e/_AsGUWF |
 | 2       | M3 35mm Bolts     | ![M3x35_buttonhead](https://user-images.githubusercontent.com/37383368/137975709-def38522-de9a-4a9c-a5c0-3ceb8460014e.png) | Your choice of socket or button head | 	https://s.click.aliexpress.com/e/_9RWMof https://s.click.aliexpress.com/e/_9RMap3 |
