@@ -3,8 +3,9 @@
 - The adjustement knob is sitting in the hinge assembly. 
 - If you dont have the top cover with hinges, you will need to replace the hinges with corner braces found [here](https://github.com/VzBot3D/VzBot/tree/master/Assemblies%20BOM%20and%20STL/Frame/Rear%20trop%20frame%20Brace%20for%20motor%20tensioner). (You can then use smaller M4 set screws, 25mm instead of 30mm (studs)
 
+![alu motormounts v6 v38](https://user-images.githubusercontent.com/37383368/147800752-10a87cd6-8b26-40ed-9783-8d4d538543e8.gif)
 
-![Printed motormounts with tensioners](https://user-images.githubusercontent.com/37383368/145152109-67a7ac33-0c8b-4652-a101-87ea19651aaa.gif)
+
 
 | Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
