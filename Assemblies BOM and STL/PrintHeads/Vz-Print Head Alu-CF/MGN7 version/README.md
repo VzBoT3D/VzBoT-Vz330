@@ -1,4 +1,4 @@
-## MGN7C is an optional thing. It only requires an adapter plate, and the rest of instructions are the as MGN9. So you can go in the MGN9 section for that.
+## MGN7C is an optional thing. It only requires an adapter plate, and the rest of instructions are the same as MGN9. So you can go in the MGN9 section for that.
 ### The adapter can be purchased from F3D store. 
 
 
