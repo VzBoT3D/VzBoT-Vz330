@@ -1,4 +1,6 @@
-# MGN7C is an optional thing. It only requires an adapter plate, and the rest of instructions are the as MGN9. So you can go in the MGN9 section for that.
+## MGN7C is an optional thing. It only requires an adapter plate, and the rest of instructions are the as MGN9. So you can go in the MGN9 section for that.
+### The adapter can bought from F3D store. 
+
 
 # Additional step:
 - Install the MGN9H to MGN7C adpater plate on the MGN7 bloc. Using 4xM2 4mm flat head counter sunk bolts.
