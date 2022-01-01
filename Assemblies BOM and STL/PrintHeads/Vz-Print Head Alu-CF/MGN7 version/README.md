@@ -11,7 +11,7 @@ Assembling the print head is straight forward.
 - ![image](https://user-images.githubusercontent.com/37383368/147859594-b7387360-0b91-4d4d-9d9f-58122cffe666.png)
 - Install the top plate on the X MGN9to7 adapter slider
 - Install the back, front, and bottom plates
-![image](https://user-images.githubusercontent.com/37383368/144165073-5143faec-5863-466d-8608-cd1a1402f1c1.png)
+![image](https://user-images.githubusercontent.com/37383368/147859713-c86a9b5d-dab7-4088-9298-db64dea7f4c7.png)
 
 ## BOM needed:
 - 8xM3 6mm Ultra low profile bolts (For all 8 corners)
