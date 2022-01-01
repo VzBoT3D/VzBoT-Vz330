@@ -7,12 +7,15 @@ Assembling the print head is straight forward.
 - cable holder (printed)
 
 # Step 2 : Assembling the carriage
-- Install the top plate on the X MGN9 slider
+- Install the MGN9H to MGN7C adpater plate on the MGN7 bloc. Using 4xM2 4mm flat head counter sunk bolts.
+- ![image](https://user-images.githubusercontent.com/37383368/147859594-b7387360-0b91-4d4d-9d9f-58122cffe666.png)
+- Install the top plate on the X MGN9to7 adapter slider
 - Install the back, front, and bottom plates
 ![image](https://user-images.githubusercontent.com/37383368/144165073-5143faec-5863-466d-8608-cd1a1402f1c1.png)
 
 ## BOM needed:
-- 12xM3 6mm Ultra low profile bolts (For all 8 corners)
+- 8xM3 6mm Ultra low profile bolts (For all 8 corners)
+- 4xM3 4mm ultra low profile bolts (fort bolting to MGN7c bloc)
 
 
 # Step 3: Mounting the the X stop switch (Optional if you don't use sensorless homing)
