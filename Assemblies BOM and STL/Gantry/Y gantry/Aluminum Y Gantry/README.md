@@ -6,7 +6,7 @@ Notes:
   
   -The back spacer is rotated 180degree from left to right gantry so it helps with belt clearance
   
-  -Carbon tube are not always precise to 20x20mm. They range from 20 to 21mm depending how lucky you are. So if your tube is not close to 21mm, use the spacer in the STLs section (spacer_alu_Y_gantry_0.5mm.stl). One can also scale the height of the spacer in slicer accordingly. If you need more than 0.5mm, then print 2 smaller spacers. Put the spacer between the top of the CF tube and Y aluminum gantry.
+  -Carbon tube are not always precise to 20x20mm. They range from 20 to 21mm depending how lucky you are. So if your tube is not close to 21mm, use the spacer in the STLs section (spacer_alu_Y_gantry_0.5mm.stl). One can also scale the height of the spacer in slicer accordingly. Put the spacer between the top of the CF tube and Y aluminum gantry.
 
 ![image](https://user-images.githubusercontent.com/37383368/137568894-05afd203-77ee-41b8-8703-34fbbaa381e7.png)
 
