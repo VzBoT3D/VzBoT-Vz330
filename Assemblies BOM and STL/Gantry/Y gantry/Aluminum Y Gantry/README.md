@@ -1,4 +1,4 @@
-Design Credit of the aluminum backet: Diemex 
+Design Credit of the aluminum bracket: Diemex 
 
 Notes:
   
