@@ -6,9 +6,10 @@ High speed, moderately sized 3D-printer, based on the TronXY XS5(A) CoreXY frame
 but can be easily adapted for other 2020 aluminium extrusion frames.
 
 Further information are in the ![VzBoT-Wiki](https://github.com/VzBot3D/VzBot/wiki)
+![d83b489c-6b62-4fff-923e-577ffe9a15dd](https://user-images.githubusercontent.com/37383368/148010563-464f9006-6cf8-4430-93d2-a66cc4282bac.jpg)
 
 https://a360.co/3nlDd2s
-![image](https://user-images.githubusercontent.com/37383368/147785916-bb5330f3-55bd-44d5-9cb3-66d482329fdd.png)
+
 
 
 This project is licensed as
