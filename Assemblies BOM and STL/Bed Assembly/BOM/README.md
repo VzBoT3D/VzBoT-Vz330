@@ -1,4 +1,9 @@
 ![image](https://user-images.githubusercontent.com/37383368/148632035-ab757e8f-3677-4cdb-8f2a-a222ae852f85.png)
+![image](https://user-images.githubusercontent.com/37383368/148632237-837d6290-5c2e-413c-b4c4-11823b736c32.png)
+
+
+
+
 
 Your choice of printing surface (Look in the main printer BOM for suggestion). If you use the stock X5S heat bed, a glass on top is recommended. We will have a Cast Aluminum Bed plate soon for sale.
 If you still wish to add a higher heating power to your X5S heat bed, check the main BOM for 310x310 silicon heatpad
