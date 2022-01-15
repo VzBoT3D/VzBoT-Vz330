@@ -18,5 +18,4 @@
 ![image](https://user-images.githubusercontent.com/37383368/147399032-80185309-dc87-493a-8c1d-f988fa269c75.png)
 
 ## CNC version available soon at F3D shop
-![image](https://user-images.githubusercontent.com/37383368/147427266-c05993e4-1b7e-4dd8-abb5-4b33334532f1.png)
-
+![image](https://user-images.githubusercontent.com/37383368/149402341-9979b77d-ec31-4fa2-b390-8ea2401bf984.png)
