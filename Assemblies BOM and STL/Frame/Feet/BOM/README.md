@@ -1,6 +1,8 @@
 ![image](https://user-images.githubusercontent.com/37383368/150451219-a742b55c-d77f-46b9-94de-215a61fd2ce9.png)
 ![image](https://user-images.githubusercontent.com/37383368/150451242-ef908251-b401-43ea-b02c-f5f42b2845d3.png)
 
+Tronxy X5S comes with either 12mm or 18mm tall rubber feet. If you have the 12mm tall version, you will need to print the spacer in the STL section.
+If you dont come from a X5S upgrade, you can buy the 13mm version with the below link. you will need to print the spacer as well, but scale it in Z by -1mm
 
 
 # Note: BOM is for one foot only. You need x4 for all corners
