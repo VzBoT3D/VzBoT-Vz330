@@ -13,3 +13,4 @@ If you dont come from a X5S upgrade, you can buy the 13mm version with the below
 | 2       | M4 T Nuts         | ![M4 Tnuts](https://user-images.githubusercontent.com/37383368/137783436-4e1c6bae-e78c-47b5-b697-86cc7f41cef6.PNG) | | https://s.click.aliexpress.com/e/_AsGUWF |
 | 1       | M4 Nut         |![M4_Nut](https://user-images.githubusercontent.com/37383368/150451383-3c5af331-50a8-4867-9555-faf2df61c88e.png)  | | ttps://s.click.aliexpress.com/e/_AFJSUp |
 | 1       | rubber feet   | ![rubber foot](https://user-images.githubusercontent.com/37383368/150452220-a8de57e0-3f8c-42b2-a62d-61fac24ed3d8.PNG)   | | https://s.click.aliexpress.com/e/_99Up8y |
+| 2       | wood screws        | ![wood screw](https://user-images.githubusercontent.com/37383368/150553866-186df15f-05e4-43c2-85c6-96cfa048c8f5.PNG) | Optional. If you wish to screw the print down. Screw lenght is user preference |  |
