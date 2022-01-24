@@ -12,3 +12,13 @@ Due to it's weight, it is highly suggested to add lower braces to support the M+
 - (2xM2.5 5mm Ultra Low profile screws - To mount the Mosquito to the Adapter plate)
 - (2xM3 6mm Ultra low profile screws - To attach to top plate 
 
+# Optional :  Lower brace mount
+
+![image](https://user-images.githubusercontent.com/37383368/150855260-cec04b16-901d-4b3c-b3fe-eae3c355cab2.png)
+![image](https://user-images.githubusercontent.com/37383368/150855570-1ee59eb1-a0ac-4679-945d-ac0987836d54.png)
+![image](https://user-images.githubusercontent.com/37383368/150855735-bb7a1733-ea27-46f5-aa48-6eb91591ba93.png)
+
+# Hardware needed:
+
+- 0.3mm Titanium sheet that you will self cut and drill. (Easy cut with normal cisor)
+- https://s.click.aliexpress.com/e/_AAlM3l
