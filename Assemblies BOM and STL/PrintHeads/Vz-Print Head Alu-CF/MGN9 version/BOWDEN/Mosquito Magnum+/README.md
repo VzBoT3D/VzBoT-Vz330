@@ -15,7 +15,7 @@ Due to it's weight, it is highly suggested to add lower braces to support the M+
 # Optional :  Lower brace mount
 
 ![image](https://user-images.githubusercontent.com/37383368/150855570-1ee59eb1-a0ac-4679-945d-ac0987836d54.png)
-![image](https://user-images.githubusercontent.com/37383368/150856291-37929e1c-eef6-439b-a130-6e7c7c2b95af.png)
+![image](https://user-images.githubusercontent.com/37383368/150856356-ffe84984-0eae-4c32-b29a-7e656d338410.png)
 
 Brace template:
 ![image](https://user-images.githubusercontent.com/37383368/150856175-2988d79e-38eb-41a2-9b76-06e18ee1562a.png)
