@@ -1,3 +1,4 @@
+# BOM is for one side only
 ![image](https://user-images.githubusercontent.com/37383368/152825503-f02d42f1-4c45-46c9-acc1-be0ee38b3f77.png)
 
 
