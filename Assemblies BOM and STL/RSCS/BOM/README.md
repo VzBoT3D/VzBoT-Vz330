@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/37383368/150563779-cfde21be-608c-4863-9018-b30815c72936.png)
+![image](https://user-images.githubusercontent.com/37383368/153324149-0bb1519a-0852-44c9-9fa0-fb7a209dff03.png)
+
 
 | Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
