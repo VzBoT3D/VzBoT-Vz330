@@ -1,7 +1,7 @@
 # Orbiter mounts the same as LGX lite from the bottom using a printed adapter plate:
 
 - 2x M3 8mm Ultra low profiles - bottom screws
-- 2x M3 8mm (can be socket or button head too) - top screws
+- 2x M3 6mm (can be socket or button head too) - top screws
 ![image](https://user-images.githubusercontent.com/37383368/147399168-6b137a11-c0c7-4553-8b18-e37440db5740.png)
 
 
