@@ -1,4 +1,4 @@
-The Vz-PrintHead fan duct is based on the EVA 2.3 and earlier release. It was modified to fit the VzPrintHead. The rear duct is shorter in lenghth to fit the size of the smaller Vz-head.
+The Vz-PrintHead fan duct is based on the EVA 2.3 and earlier release. It was modified to fit the VzPrintHead. The rear duct is shorter in length to fit the size of the smaller Vz-head.
 Also, the under duct has been slightly modified to allow the duct to go higher witout hitting the bottom plate of the carriage. That way, we can fit shorter hotend like Nova, Mosquito and others
 
 ![image](https://user-images.githubusercontent.com/37383368/150803820-53103345-f7ea-4369-98e3-482ffbf9c41c.png)
