@@ -3,7 +3,7 @@
 - 2x M3 6mm Ultra low profiles - bottom screws
 - 2x M3 10mm (can be socket or button head too) - top screws
 
-![image](https://user-images.githubusercontent.com/37383368/156412924-ede5f1fa-297a-4f5f-bfe0-a1cc7fe95f86.png)
+![image](https://user-images.githubusercontent.com/37383368/156413619-ca5e83fa-b7a4-44be-a42a-9d561025c4ff.png)
 
 
 
