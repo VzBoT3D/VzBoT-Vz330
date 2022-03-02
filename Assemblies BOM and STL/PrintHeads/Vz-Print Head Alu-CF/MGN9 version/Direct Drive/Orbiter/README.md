@@ -11,7 +11,7 @@
 
 ## Printed Version with inserts:
 
-- 4 M3 short brass inserts (Short inserts on Amazon: https://amzn.to/3sxTUfa)
+- 4 M3 (M3x5x3) short brass inserts (Short inserts on Amazon: https://s.click.aliexpress.com/e/_9fczVr 
 ![image](https://user-images.githubusercontent.com/37383368/147398943-5686360a-ea5f-4cdf-bb98-aabe11347dc0.png)
 
 ## Printed Version with no inserts
