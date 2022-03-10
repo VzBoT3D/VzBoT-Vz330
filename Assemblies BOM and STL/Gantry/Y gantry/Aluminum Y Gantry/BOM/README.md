@@ -1,12 +1,14 @@
 # BOM is for one side only. You will need 2. 
 
- (Note: Since Carbon fiber tube dimensions are not always the same, you may need to add spacers (printed) between aluminum part and cabon tube. My tubes were 20.85mm and 20.65mm. I used the 20.85mm one with no washer. So depending on your luck, you may need to add spacers. See in the STL folder. you can scale it in Z in your slicer to fit your tube)
-
-![Y gantry aluminum v7](https://user-images.githubusercontent.com/37383368/137658941-ec4aa107-41c0-4470-adfa-1b0e90ed75c5.gif)
+## (Note: Since Carbon fiber tube dimensions are not always the same, you may need to add spacers (printed) between aluminum part and cabon tube. My tubes were 20.85mm and 20.65mm. I used the 20.85mm one with no washer. So depending on your luck, you may need to add spacers. See in the STL folder. you can scale it in Z in your slicer to fit your tube)
 
 ## When torquing the the idlers, make sure you do not apply to much axial load on the idler bearings. Tight manually with hands then add 1/4. Make sure idlers spin freely. This will avoid rattling sound, specially if you use graphite or metal spacers sold by mellow Kit)
+![Y gantry aluminum v7](https://user-images.githubusercontent.com/37383368/137658941-ec4aa107-41c0-4470-adfa-1b0e90ed75c5.gif)
 
-(You might also take a look at this full gantry hardware kit https://s.click.aliexpress.com/e/_A0Qa7P)
+
+
+
+- (You might also take a look at this full gantry hardware kit https://s.click.aliexpress.com/e/_A0Qa7P)
 
 | Quantity | Part                         | Comment              | Image  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
