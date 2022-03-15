@@ -1,3 +1,7 @@
-![image](https://user-images.githubusercontent.com/37383368/146253559-703899ea-8be2-47cb-b55a-7dfd5e3ecd09.png)
-![image](https://user-images.githubusercontent.com/37383368/146253698-af6007e6-84c1-478c-8838-dab81da5c35c.png)
 
+
+| Quantity | Part                         | Image             | comment  | Links  |
+| ------ | ----                           | -------              | -----  | -----	|
+| 2      | M3 6mm bolts     | ![M3x6_buttonhead](https://user-images.githubusercontent.com/37383368/147801110-b59dbdc4-3660-47f2-bd18-aaa4f31d7406.png)  | To bolt cpap fan mount to alu back plate   | https://s.click.aliexpress.com/e/_9RWMof |
+| 3      | M2.5 screws     | ![M4 selft tapping screw 10mm](https://user-images.githubusercontent.com/37383368/158305048-ae9e94ba-ad1d-4e14-9ed1-5a3f80af10ef.PNG)  | To screw cpap fan mount to fan   | https://s.click.aliexpress.com/e/_A7Qlmx |
+| 1      | cpap fan 70mm + controller     | ![Capture7](https://user-images.githubusercontent.com/37383368/158305443-aa1948f9-4704-405b-8f00-72042b4559ed.PNG)  |  | https://s.click.aliexpress.com/e/_Ae6PLH | |
