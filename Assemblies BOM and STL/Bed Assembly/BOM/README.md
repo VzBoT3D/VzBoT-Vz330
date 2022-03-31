@@ -18,7 +18,8 @@ If you still wish to add a higher heating power to your X5S heat bed, check the 
 | 1       | M3 wing nut     | ![image](https://user-images.githubusercontent.com/37383368/138750038-ef6b1a03-fe82-4fb7-9527-eb4e434d6a6e.png) | (For Z stop switch)Your choice of socket or button head or philips | https://s.click.aliexpress.com/e/_A4azYZ |
 | 1       | Bed spring kit |                                                      | you need 6  | https://s.click.aliexpress.com/e/_AFy0un  or https://s.click.aliexpress.com/e/_9i6SRT |
 | 4       | L internal corner Joiner  |  ![image](https://user-images.githubusercontent.com/37383368/138750456-f53ed7d4-5294-4023-961c-586d76900bdd.png)   |  | https://s.click.aliexpress.com/e/_A7n2zX |
-| 1       | 330x330 heat bed |  | F3D or Mellow  | https://f3d-racing-fdm.myshopify.com/products/print-bed-vzbot-330x330 https://s.click.aliexpress.com/e/_AC5GXF |
+| 1       | 330x330 heat bed | ![U635ca8d5eb90439c9e2ffb217edf442fG](https://user-images.githubusercontent.com/37383368/161088256-d9a10b5e-4ff4-40f9-8635-85e0659a241d.jpg)
+ | F3D or Mellow  | https://f3d-racing-fdm.myshopify.com/products/print-bed-vzbot-330x330 https://s.click.aliexpress.com/e/_AC5GXF |
 | 2       | 390mm 2020 profile | ![image](https://user-images.githubusercontent.com/37383368/138796132-2633c5c2-7e22-4e87-a046-c664f2259d13.png) | | |
 | 2       | 260mm 2020 profile | ![image](https://user-images.githubusercontent.com/37383368/138796132-2633c5c2-7e22-4e87-a046-c664f2259d13.png) | | | 
 
