@@ -1,4 +1,4 @@
-# Orbiter mounts the same as LGX lite from the bottom using a printed adapter plate:
+# Sherpa mini mounts the same as LGX lite from the bottom using a printed adapter plate:
 
 - 2x M3 6mm Ultra low profiles - bottom screws
 - 2x M3 10mm (can be socket or button head too) - top screws
