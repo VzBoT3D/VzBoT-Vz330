@@ -6,7 +6,8 @@
 - LGX Lite 
 - (Not recommended) Hextrudort  (One can decide to use the official HextrudORT version to bolt directly on the hotend without using the adapter plate. This will work but the disanvatage is that you will have to dismantle the Hextrudort everytime you will want to remove the hotend)
 - Orbiter 2.0 
-- Sherpa mini (soon)
+- Sherpa mini 
+- Sherpa Micro
 
 
 
