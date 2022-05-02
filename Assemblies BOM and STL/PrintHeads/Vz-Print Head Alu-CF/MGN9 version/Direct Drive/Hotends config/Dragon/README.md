@@ -2,6 +2,7 @@ If you wish to upgrade your dragon to a Crazy Volcano:
 -https://s.click.aliexpress.com/e/_9hSPym
 
 # Dragon is mounted using the adapter plate
+(Note for Vcore3 users: Since the printhead is taller on Vcore3, you have to use the Crazy volcano heatbloc or the if you keep the standard heatbloc, you will have to use the Grove Mount adapter sold at F3D [here ](https://f3d-racing-fdm.myshopify.com/products/vzbot-mgn9-printhead-v6-groove-mount-pre-order). Or use a printed spacer found [here]
 
 ![image](https://user-images.githubusercontent.com/37383368/143970433-7cb0ce77-7590-402f-ace5-63538081e3bb.png)
 
