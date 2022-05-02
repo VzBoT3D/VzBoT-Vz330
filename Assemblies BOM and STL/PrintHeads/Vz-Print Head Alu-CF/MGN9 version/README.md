@@ -15,8 +15,13 @@ Assembling the print head is straight forward.
 - 12xM3 6mm Ultra low profile bolts (For all 8 corners and MGN9 bloc)
 
 
-# Step 3: Mounting the the X stop switch (Optional if you don't use sensorless homing)
+# Step 3: Mounting the the X stop switch (Optional: if you don't use sensorless homing)
 ![image](https://user-images.githubusercontent.com/37383368/144165516-71b350dc-e5e7-4ad3-9994-2b5eeb7d3ebf.png)
+### Rat Rig Vcore3 users: You will need to add this X stopper to your Left Xy joiner. STL found here: 
+Please note that you will need a 15mm M5 bolt instead of a 12mm
+![image](https://user-images.githubusercontent.com/37383368/166172614-6126112e-fe90-472b-8d7b-c416a6c2a4d1.png)
+
+
 ## BOM needed:
 - 2 x M3 6mm Ultra low profile bolts
 - 2 x M2 screws (not included in the kit)
