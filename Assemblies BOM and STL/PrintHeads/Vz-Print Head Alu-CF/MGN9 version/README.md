@@ -17,7 +17,7 @@ Assembling the print head is straight forward.
 
 # Step 3: Mounting the the X stop switch (Optional: if you don't use sensorless homing)
 ![image](https://user-images.githubusercontent.com/37383368/144165516-71b350dc-e5e7-4ad3-9994-2b5eeb7d3ebf.png)
-### Rat Rig Vcore3 users: You will need to add this X stopper to your Left Xy joiner. STL found here: 
+### Rat Rig Vcore3 users: You will need to add this X stopper to your Left Xy joiner. STL found [here](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/PrintHeads/Vz-Print%20Head%20Alu-CF/STLs/Vcore3%20specific/Vcore3_X_stopper.stl) 
 Please note that you will need a 15mm M5 bolt instead of a 12mm
 ![image](https://user-images.githubusercontent.com/37383368/166172614-6126112e-fe90-472b-8d7b-c416a6c2a4d1.png)
 
