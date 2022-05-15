@@ -1,11 +1,11 @@
 ![image](https://user-images.githubusercontent.com/37383368/152826872-beb28b8c-c065-44d0-8407-01d6b253f70c.png)
-![image](https://user-images.githubusercontent.com/37383368/146020303-fb136ab4-5061-403d-b7cf-907462f8283e.png)
+![image](https://user-images.githubusercontent.com/37383368/168482657-80c0829f-7e7a-4ea5-9452-f71055f79a23.png)
 
 
 | Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
 | 2       | M3 25mm Bolt     | ![M3x25_sockethead](https://user-images.githubusercontent.com/37383368/146018806-cb7694ae-0053-4ed0-a4dd-c0a0398f1745.png) | For front cover bolting to rear plate | https://s.click.aliexpress.com/e/_9RWMof https://s.click.aliexpress.com/e/_9RMap3 |
-| 1       | M3 15mm Bolt     | ![M3x15_sockethead](https://user-images.githubusercontent.com/37383368/152827033-b98b44c0-d00e-4566-9109-842852d55aab.png) | lower right boty to back plate (Low motor version only) | https://s.click.aliexpress.com/e/_9RWMof https://s.click.aliexpress.com/e/_9RMap3 |
+| 1       | M3 15mm Bolt     | ![M3x15_sockethead](https://user-images.githubusercontent.com/37383368/152827033-b98b44c0-d00e-4566-9109-842852d55aab.png) | lower right boty to back plate  | https://s.click.aliexpress.com/e/_9RWMof https://s.click.aliexpress.com/e/_9RMap3 |
 | 1       | M3 20mm Bolt     |![M3x20_sockethead](https://user-images.githubusercontent.com/37383368/146019575-75ba08f7-e448-4505-b7a7-355320fb973a.png)  | for Tension arm | https://s.click.aliexpress.com/e/_9RWMof https://s.click.aliexpress.com/e/_9RMap3 |
 | 2       | M3 6mm Bolts     | ![M3x6_sockethead](https://user-images.githubusercontent.com/37383368/146018893-9c43fdcd-af3c-43a6-889b-15e2ef85382e.png)  | For bolting motor | https://s.click.aliexpress.com/e/_9RWMof https://s.click.aliexpress.com/e/_9RMap3 |
 | 5-6       | M3 Nuts  | ![M3_Nut](https://user-images.githubusercontent.com/37383368/146019006-72da970d-280e-4b80-8444-5fd5079a783e.png)   | 6 nuts needed for low motor version, and 5 for high motor    | https://s.click.aliexpress.com/e/_AFJSUp |
