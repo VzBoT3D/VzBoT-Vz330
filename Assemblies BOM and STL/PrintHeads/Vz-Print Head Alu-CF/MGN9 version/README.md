@@ -21,6 +21,7 @@ Assembling the print head is straight forward.
 Please note that you will need a 15mm M5 bolt instead of a 12mm
 ![image](https://user-images.githubusercontent.com/37383368/166172614-6126112e-fe90-472b-8d7b-c416a6c2a4d1.png)
 
+Also, you can re-use the Vcore original X switch with this [mount](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/PrintHeads/Vz-Print%20Head%20Alu-CF/STLs/Vcore3%20specific/X-endstop-mount.stl)
 
 ## BOM needed:
 - 2 x M3 6mm Ultra low profile bolts
