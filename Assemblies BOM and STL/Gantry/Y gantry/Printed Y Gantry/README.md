@@ -1,4 +1,5 @@
 Notes:
   -Left side has a X limit switch stopper.
-![image](https://user-images.githubusercontent.com/37383368/137652214-4e7112df-dda4-4a64-88c9-836254ccf5fd.png)
-![image](https://user-images.githubusercontent.com/37383368/137652221-505d2f60-f6a9-4174-bc05-87591863070b.png)
+![image](https://user-images.githubusercontent.com/37383368/172400546-43588b1f-f476-495b-a2ca-2da6bee09f51.png)
+![image](https://user-images.githubusercontent.com/37383368/172400606-eb3a6ad4-3b48-4c80-b1f9-e6f5eae604f2.png)
+
