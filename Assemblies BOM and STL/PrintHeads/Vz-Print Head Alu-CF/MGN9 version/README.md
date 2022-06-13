@@ -73,6 +73,11 @@ Loosen the 2 M3 8mm bolts, and ajust height according to your Hotend
 ![image](https://user-images.githubusercontent.com/37383368/144168882-fc4419c9-49b1-4dae-bfeb-97a5b0f7b51a.png)
 ![image](https://user-images.githubusercontent.com/37383368/157687995-3fd05f2c-27e8-4a83-980b-1fac1bc3e35d.png)
 
+# Optional : Cable mount brace
+If you do not need to bring the fan all the way down, you can print and install this little [BRACE](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/PrintHeads/Vz-Print%20Head%20Alu-CF/STLs/cable_mount_brace_brace.stl) that will help secure the cable mount in place
+![image](https://user-images.githubusercontent.com/37383368/173377071-cb560330-bb4c-449d-8ee5-06435b12b3f9.png)
+
+
 ## BOM needed:
 (No probe):
 - 1 x M3 20mm bolt - (For right side of the fan when you face printer - When NOT using probe)
@@ -83,4 +88,5 @@ Loosen the 2 M3 8mm bolts, and ajust height according to your Hotend
 - 2 x M3 25mm bolt - (Please note the left side bolt orientation is different to clear the belt)
 - 1 x M3 8mm (upper fan duct brace)
 - 2 x M3 6mm (Bltouch mount
+
 
