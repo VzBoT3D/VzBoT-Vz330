@@ -77,6 +77,13 @@ Loosen the 2 M3 8mm bolts, and ajust height according to your Hotend
 If you do not need to bring the fan all the way down, you can print and install this little [BRACE](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/PrintHeads/Vz-Print%20Head%20Alu-CF/STLs/cable_mount_brace_brace.stl) that will help secure the cable mount in place
 ![image](https://user-images.githubusercontent.com/37383368/173377071-cb560330-bb4c-449d-8ee5-06435b12b3f9.png)
 
+# Optional : Klickyand Quickdraw probe: 
+Fan duck with probe: [Here](https://grabcad.com/library/contribution-to-the-various-vzbot-fanduct-systems-in-combination-with-the-klicky-probedi-jlas1-and-quickdraw-systems-of-annex-1?fbclid=IwAR16A_0Nun4rFj4dr5-l7O6l62gWpChDlT06tSl2N-mH0tbDB2Qwea59Pus)
+Docking system: [Here](https://grabcad.com/library/contribution-to-the-retractable_probe_dock-for-klicky-probe-and-quickdraw-probe-system-for-voron-of-tronfu-adapted-to-vzbotrobe-per-voron-di-tronfu-riadattato-alla-vzbot-1?fbclid=IwAR31FLcYtxWH4eCrtFb1iTl6fMMfGeksUfxyhcuGlu9bqLtTKSHHada0CzA)
+![image](https://user-images.githubusercontent.com/37383368/176207407-0eb39f79-caba-44fd-b1ec-83fbe20a3baf.png)
+![image](https://user-images.githubusercontent.com/37383368/176208539-eac2eba9-f4ca-4651-94b0-fdf6f2e59ec2.png)
+
+
 
 ## BOM needed:
 (No probe):
