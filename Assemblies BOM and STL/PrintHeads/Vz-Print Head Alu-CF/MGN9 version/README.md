@@ -73,6 +73,11 @@ Loosen the 2 M3 8mm bolts, and ajust height according to your Hotend
 ![image](https://user-images.githubusercontent.com/37383368/144168882-fc4419c9-49b1-4dae-bfeb-97a5b0f7b51a.png)
 ![image](https://user-images.githubusercontent.com/37383368/157687995-3fd05f2c-27e8-4a83-980b-1fac1bc3e35d.png)
 
+# Option : Tri horn fan duct with brace (useful when running a z probe sensor)
+If you find that your fan duct is not stiff enough and move after a while, this mod of the fan [duct](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/PrintHeads/Vz-Print%20Head%20Alu-CF/STLs/fan%20duct%20lower%20body-trihorn%20with%20brace.stl) is for you. Scale the [spacers](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/PrintHeads/Vz-Print%20Head%20Alu-CF/STLs/fan%20duct%20lower%20body-trihorn%20Z%20scalable%20spacers.stl) according the the height needed.
+![image](https://user-images.githubusercontent.com/37383368/176760266-9fbbe036-2285-433d-9bbc-f1edfe9d210f.png)
+
+
 # Optional : Cable mount brace
 If you do not need to bring the fan all the way down, you can print and install this little [BRACE](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/PrintHeads/Vz-Print%20Head%20Alu-CF/STLs/cable_mount_brace_brace.stl) that will help secure the cable mount in place
 ![image](https://user-images.githubusercontent.com/37383368/173377071-cb560330-bb4c-449d-8ee5-06435b12b3f9.png)
