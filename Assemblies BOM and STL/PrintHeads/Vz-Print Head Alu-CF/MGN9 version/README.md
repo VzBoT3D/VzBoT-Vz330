@@ -74,7 +74,7 @@ Loosen the 2 M3 8mm bolts, and ajust height according to your Hotend
 ![image](https://user-images.githubusercontent.com/37383368/157687995-3fd05f2c-27e8-4a83-980b-1fac1bc3e35d.png)
 
 # Option : Tri horn fan duct with brace (useful when running a z probe sensor)
-If you find that your fan duct is not stiff enough and move after a while, this mod of the fan [duct](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/PrintHeads/Vz-Print%20Head%20Alu-CF/STLs/fan%20duct%20lower%20body-trihorn%20with%20brace.stl) is for you. Scale the [spacers](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/PrintHeads/Vz-Print%20Head%20Alu-CF/STLs/fan%20duct%20lower%20body-trihorn%20Z%20scalable%20spacers.stl) according the the height needed.
+If you find that your fan duct is not stiff enough and move after a while, this mod of the fan [duct](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/PrintHeads/Vz-Print%20Head%20Alu-CF/STLs/fan%20duct%20lower%20body-trihorn%20with%20brace.stl) is for you. Scale the [spacers](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/PrintHeads/Vz-Print%20Head%20Alu-CF/STLs/fan%20duct%20lower%20body-brace%20Z%20scalable%20spacers.stl) according the the height needed.
 ![image](https://user-images.githubusercontent.com/37383368/176760266-9fbbe036-2285-433d-9bbc-f1edfe9d210f.png)
 
 
