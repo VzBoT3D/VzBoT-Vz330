@@ -1,4 +1,4 @@
-Print head asemblies.
+Printed head asemblies.
 
 The Print head is a modified EVA carriage to fit the VzBoT. The EVA project is owned and maintained by Pawel. Big thanks and credits to the man behind this.
 https://main.eva-3d.page/
