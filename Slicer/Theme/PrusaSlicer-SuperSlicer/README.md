@@ -13,13 +13,14 @@ This customization is realized in two steps.
 
 
 
-## Custome Bed assembly
+## Custom Bed assembly
 
-There are two different versions available. You can choose the full bed assembly with all the bells and whistles or you choose the light weight option which os only the bed without the frame or attached parts. The full bed assembly does take a bit longer to load, when you open the slicer. 
+There are three different versions available. You can choose the full bed assembly with all the bells and whistles or you choose the light weight option which os only the bed without the frame or attached parts. The full bed assembly does take a bit longer to load, when you open the slicer. There is a compressed version which will reduce this loading time at the cost of some detail 
 
-This are your two options, choose one from the bed assembly folder:
+These are your two options, choose one from the bed assembly folder:
 
 * Custom_bed_assembly_vz330.stl 
+* Compressed_Custom bed assembly_vz330.stl
 * Vz330_bed.stl 
 
 
