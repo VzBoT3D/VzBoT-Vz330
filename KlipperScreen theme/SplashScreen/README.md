@@ -1,7 +1,7 @@
-# KlipperScreen Theme for VzBoT
-![image](https://user-images.githubusercontent.com/37383368/153299245-0a797d68-fd3f-4c66-8145-29bee484048e.png)
+# KlipperScreen Boot splash screen
 
-## Simply unzip the file in your /home/pi/KlipperScreen/styles/  folder
-![image](https://user-images.githubusercontent.com/37383368/152007913-6d7f6b15-d041-4ed3-ba9e-9534d89beb27.png)
+Guide: https://nordfpv.com/blogs/news/customising-klipperscreen-boot-up-sequence-with-a-custom-video
 
-- Credits to Marco Formenton for theming !
+Put intro1 in /etc/systemd/system/splash.service and your choice of intro2 or intro3 in /etc/rc.local
+
+![image](https://user-images.githubusercontent.com/37383368/202033571-abe721c8-5906-41ad-8e60-673ecc3e21ef.png)
