@@ -4,7 +4,7 @@ The new screen mount is Beta for now. It uses the same frame mount as before. On
 
 BOM:
 - 2xM3 12mm 
-- 4xM3 8mm 
+- 4xM2.5 8mm 
 - 2xM3 nuts 
 
 <img width="891" alt="image" src="https://user-images.githubusercontent.com/37383368/203140552-e7c49c32-6754-4ea1-9464-855041555da9.png">
