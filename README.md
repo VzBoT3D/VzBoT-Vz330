@@ -5,7 +5,7 @@
 High speed, moderately sized 3D-printer, based on the TronXY XS5(A) CoreXY frame,
 but can be easily adapted for other 2020 aluminium extrusion frames.
 
-You can find the complete web model without CAD-Software here: [CAD model web viewer](https://a360.co/3Eti8gj) 
+You can find the complete web model without CAD-Software here: [CAD Viewer](https://a360.co/3UVvjLM)  
 
 ![d83b489c-6b62-4fff-923e-577ffe9a15dd](https://user-images.githubusercontent.com/37383368/148010563-464f9006-6cf8-4430-93d2-a66cc4282bac.jpg)
 
