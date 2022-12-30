@@ -24,7 +24,9 @@ This section will help to determine what you need to print in advance for the bu
 - Gantry comes pre-assembled with most printed parts already there. You will only need the X tube spacers. Mesure you CF tube in height. If your tube is 20mm tall, then you will need to print 4 spacers (2 on each side) of 0.5mm. The Y gantry has an opening of 21mm, so you will need to compensate for 1mm if your tube is 20mm. So 0.5mm spacers between Y gantry and tube. (One top and one bottom to keep it centered). If your tube is 20.5mm, then you have a 0.5mm to compensate, so print spacers with 0.25mm height (scale them in Z in your your slicer to the desired height).
 
 - The front motor/idler mounts on X1 side maybe have been assembled the wrong way for the idlers. Refer to the CAD model or the screenshot below. Also something that we didnt think about for the pre-assembled gantry, is that you will need to unbolt the front motor/idler full assembly in order to access the M5 frame bolt on both sides (refer to second screen shot here). No need to dissassemble the whole assembly, just remove the bolts that holds both aluminum plates to the frame so you can remove the whole assembly as one. 
-![image](https://user-images.githubusercontent.com/37383368/210114549-241b868c-b806-413d-b8d4-de606e2d3e0d.png)
+<img width="850" alt="image" src="https://user-images.githubusercontent.com/37383368/210116456-26c591d4-d10b-4140-baf6-b5b4c1545568.png">
+
+![image](https://user-images.githubusercontent.com/37383368/210116487-b7a3931f-1d57-41bd-bdeb-ca9a6d8eef0e.png)
 
 
 ## [Printhead](https://github.com/VzBoT3D/Vz-Printhead/)
