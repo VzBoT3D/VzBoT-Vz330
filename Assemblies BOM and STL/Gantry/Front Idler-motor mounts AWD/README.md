@@ -7,3 +7,6 @@ documentation/BOM [here](https://github.com/VzBoT3D/VzBoT-Vz330/tree/master/Buil
 <img width="825" alt="image" src="https://user-images.githubusercontent.com/37383368/187034202-9dad246c-8f08-41f4-ba80-6d88fa99fe98.png">
 
 ![vz 330 AWD motor location](https://user-images.githubusercontent.com/37383368/176803260-adff3b81-e9cf-4739-98ca-5da6f9086bb4.png)
+
+<img width="1398" alt="image" src="https://user-images.githubusercontent.com/37383368/210033651-6ec5ac8f-ebc3-478c-958d-cdef0da982d6.png">
+
