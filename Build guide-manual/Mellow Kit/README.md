@@ -7,11 +7,13 @@ This is still a beta release, and we will try our best to help you through this 
 
 This section will help to determine what you need to print in advance for the build. It will be devided by section and STLs can be found in the [Assemblies BOM and STL](/Assemblies%20BOM%20and%20STL)
 
-## Alignment tools: 
-You will need to print the Z aligment tool for 10mm Rods to install the Z assembly. You do not need to print the MGN rail aligment tool(s) as the gantry is pre-assembled.
+## [Alignment tools](/Assemblies%20BOM%20and%20STL/Alignement%20Tools): 
+- [Z aligment tool for 10mm Rods](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Alignement%20Tools/Z%20Alligment%20tool%2010mm%20rod.stl)
+- You do not need to print the MGN rail aligment tool(s) as the gantry is pre-assembled.
 
-## Frame
-All the STL found in [frame section](/Assemblies%20BOM%20and%20STL/Frame) Except the rear top brace for motor tensioner. (These braces are for people running with no enclosure)
+## [Frame](/Assemblies%20BOM%20and%20STL/Frame)
+<img width="607" alt="image" src="https://user-images.githubusercontent.com/37383368/210115146-2aabb50a-7a39-4201-ad02-35352c372164.png">
+- All the STL found in the frame section, except the rear top brace for motor tensioner. (These braces are for people running with no enclosure)
 
 ## Gantry
 Gantry comes pre-assembled with most printed parts already there. You will need:
@@ -21,7 +23,7 @@ Gantry comes pre-assembled with most printed parts already there. You will need:
 ![image](https://user-images.githubusercontent.com/37383368/210114549-241b868c-b806-413d-b8d4-de606e2d3e0d.png)
 
 
-## Printhead  (STL found [here](https://github.com/VzBoT3D/Vz-Printhead/tree/main/STLs)
+## Printhead  (STL and doc found [here](https://github.com/VzBoT3D/Vz-Printhead/)
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/37383368/210114952-d4b98c4c-af4c-41a7-8c46-ad2d894253c3.png">
 
 - [X endstop switch mount](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/X-endstop-mount.stl)
