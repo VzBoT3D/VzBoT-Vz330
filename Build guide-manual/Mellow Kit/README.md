@@ -17,4 +17,21 @@ All the STL found in [frame section](/Assemblies%20BOM%20and%20STL/Frame) Except
 Gantry comes pre-assembled with most printed parts already there. You will need:
 - [Y gantry](/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry):  Pre-assembled with idler spacers. You only need the tube spacers. Mesure you CF tube in height. If your tube is 20mm tall, then you will need to print 4 spacers (2 on each side) of 0.5mm. The Y gantry has an opening of 21mm, so you will need to compensate for 1mm if your tube is 20mm. So 0.5mm spacers between Y gantry and tube. (One top and one bottom to keep it centered). If your tube is 20.5mm, then you have a 0.5mm to compensate, so print spacers with 0.25mm height (scale them in Z in your your slicer to the desired height).
 
+- The front motor/idler mounts on X1 side maybe have been assembled the wrong way for the idlers. Refer to the CAD model or the screenshot below. Also something that we didnt think about for the pre-assembled gantry, is that you will need to unbolt the front motor/idler full assembly in order to access the M5 frame bolt on both sides (refer to second screen shot here). No need to dissassemble the whole assembly, just remove the bolts that holds both aluminum plates to the frame so you can remove the whole assembly as one. 
+![image](https://user-images.githubusercontent.com/37383368/210114549-241b868c-b806-413d-b8d4-de606e2d3e0d.png)
+
+
+## Printhead  (STL found [here](https://github.com/VzBoT3D/Vz-Printhead/tree/main/STLs)
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/37383368/210114952-d4b98c4c-af4c-41a7-8c46-ad2d894253c3.png">
+
+- [X endstop switch mount](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/X-endstop-mount.stl)
+- [cable holder ](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/cable_holder.stl)
+- [fan duct lower Goliath](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/fan%20duct%20lower%20Goliath.stl)
+- [fan duct lower Goliath spacers](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/fan%20duct%20lower%20Goliath%20spacers.stl)
+- [fan duct upper](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/upper%20duct.stl)
+- [upper duct mount](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/upper%20duct%20mount.stl)
+- [upper duct cpap c clamp](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/c-clamp.stl)
+
+
+
 ...... work in progress.. 
