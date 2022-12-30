@@ -46,7 +46,7 @@ This section will help to determine what you need to print in advance for the bu
 
 (Cable chain is missing/not included in the beta kits. Some people prefer a ombilical chord with wire sleeve/loom. If you wish to buy a chain, get a 10x10 chain with the end joints here or similar https://s.click.aliexpress.com/e/_DDGBfvz. One end bolts to frame with M3 tnuts and bolts and the other end bolts to the printed mount on the bed support plate)
 
-(some cusotmers reported missing bed silicon spacers in their kit. Kit comes with clear translucent spacers, but i recommend black silicon spacers. Check in the bom for link. We will try to fix this on the next kits)
+(some cusotmers reported missing bed silicon spacers in their kit. Kit comes with clear translucent spacers, but i recommend black silicon spacers. Check in the bom for link. We will try to fix this on the next kits. If you buy the black spacers, you can use a big metal washer 20mm between spacer and heatbed)
 
 - [Bed level adjustment knobs](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20complete%20system%20-%20Aluminum/STLs/Bed%20level%20adjustment%20knobs%20.stl)
 - (For chain mount, if your bed support plate dont have the 2 M3 holes/thread in the back please use chain mount option2)
