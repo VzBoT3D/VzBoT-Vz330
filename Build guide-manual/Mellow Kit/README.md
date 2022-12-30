@@ -26,7 +26,8 @@ This section will help to determine what you need to print in advance for the bu
 - The front motor/idler mounts on X1 side maybe have been assembled the wrong way for the idlers. Refer to the CAD model or the screenshot below. Also something that we didnt think about for the pre-assembled gantry, is that you will need to unbolt the front motor/idler full assembly in order to access the M5 frame bolt on both sides (refer to second screen shot here). No need to dissassemble the whole assembly, just remove the bolts that holds both aluminum plates to the frame so you can remove the whole assembly as one. 
 <img width="850" alt="image" src="https://user-images.githubusercontent.com/37383368/210116456-26c591d4-d10b-4140-baf6-b5b4c1545568.png">
 
-![image](https://user-images.githubusercontent.com/37383368/210116487-b7a3931f-1d57-41bd-bdeb-ca9a6d8eef0e.png)
+![image](https://user-images.githubusercontent.com/37383368/210116584-4fd1e248-d878-4ef8-8ca3-ec01c82c4c76.png)
+
 
 
 ## [Printhead](https://github.com/VzBoT3D/Vz-Printhead/)
