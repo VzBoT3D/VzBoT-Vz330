@@ -1,0 +1,86 @@
+{
+    "header": {
+        "machine_id": "7dc7ccdb-7650-4b81-ac17-1b3512e42a00",
+        "machine_type": "Vz-330"
+    },
+    "override_slice_settings": false,
+    "settings": {
+        "clearance_settings": {
+            "clearance_extruder_settings": [
+                {
+                    "extruder": 0,
+                    "printhead_back_offset": 0,
+                    "printhead_front_offset": 0,
+                    "printhead_left_offset": 0,
+                    "printhead_right_offset": 0
+                },
+                {
+                    "extruder": 1,
+                    "printhead_back_offset": 0,
+                    "printhead_front_offset": 0,
+                    "printhead_left_offset": 0,
+                    "printhead_right_offset": 0
+                }
+            ],
+            "machine_gantry_height": 0
+        },
+        "machine_baudrate": 230400,
+        "machine_bed_shape": 0,
+        "machine_bed_temp_max": 110,
+        "machine_belt": false,
+        "machine_belt_gantry_angle": 45,
+        "machine_compensation_x": 100,
+        "machine_compensation_y": 100,
+        "machine_custom_printing_priority": false,
+        "machine_data_content_add": false,
+        "machine_data_file_add": true,
+        "machine_data_file_thumbnail_height": 640,
+        "machine_data_file_thumbnail_width": 640,
+        "machine_dim_x": 330,
+        "machine_dim_y": 315,
+        "machine_dim_z": 400,
+        "machine_distance_from_border": 2.5,
+        "machine_extruder_num": 1,
+        "machine_extruder_offset_x2": 25,
+        "machine_extruder_offset_y2": 0,
+        "machine_extruder_switch_wait_heating": false,
+        "machine_fan_control": true,
+        "machine_filament_1": 25,
+        "machine_filament_2": 25,
+        "machine_filament_name_1": "1.75",
+        "machine_filament_name_2": "1.75",
+        "machine_firmware_retraction": false,
+        "machine_firmware_type": "Marlin",
+        "machine_gcode_action": 0,
+        "machine_gcode_e_multiply_flow": false,
+        "machine_gcode_thumbnail_add": true,
+        "machine_gcode_thumbnail_height": 200,
+        "machine_gcode_thumbnail_width": 200,
+        "machine_heat_bed": true,
+        "machine_idex_system": false,
+        "machine_last_upload_server_type": 0,
+        "machine_m1001_code": ";end of Start GCode",
+        "machine_m1002_code": ";End GCode",
+        "machine_m2000_code": "pause",
+        "machine_nozzle_diameter": 0.5,
+        "machine_nozzle_diameter_2": 0.5,
+        "machine_nozzle_temp_max_1": 310,
+        "machine_nozzle_temp_max_2": 310,
+        "machine_omit_raisetouch_code": true,
+        "machine_origin_center": false,
+        "machine_print_mode": 0,
+        "machine_prompt_use_raft": false,
+        "machine_prompt_use_raft_duplication_mirror": false,
+        "machine_prompt_use_raft_threshold": 150,
+        "machine_relative_extrusion": false,
+        "machine_reset_e_length_layer_change": false,
+        "machine_stepe": 0,
+        "machine_type_abbreviation": "Vz-330",
+        "machine_validate_printing_priority": true,
+        "machine_virtual_extruder_offset_x2": 25,
+        "machine_virtual_extruder_offset_y2": 0
+    },
+    "slice_settings": {
+    },
+    "version": 1
+}
