@@ -17,3 +17,4 @@ All the STL found in [frame section](/Assemblies%20BOM%20and%20STL/Frame) Except
 Gantry comes pre-assembled with most printed parts already there. You will need:
 - [Y gantry](/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry):  Pre-assembled with idler spacers. You only need the tube spacers. Mesure you CF tube in height. If your tube is 20mm tall, then you will need to print 4 spacers (2 on each side) of 0.5mm. The Y gantry has an opening of 21mm, so you will need to compensate for 1mm if your tube is 20mm. So 0.5mm spacers between Y gantry and tube. (One top and one bottom to keep it centered). If your tube is 20.5mm, then you have a 0.5mm to compensate, so print spacers with 0.25mm height (scale them in Z in your your slicer to the desired height).
 
+...... work in progress.. 
