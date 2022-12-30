@@ -44,6 +44,8 @@ This section will help to determine what you need to print in advance for the bu
 ## [Z complete system (pdf manual here)](/Assemblies%20BOM%20and%20STL/Z%20complete%20system%20-%20Aluminum)
 <img width="709" alt="image" src="https://user-images.githubusercontent.com/37383368/210116113-fcefb1c3-d0aa-4042-86ad-bc0f0d15b7de.png">
 
+(Cable chain is missing/not included in the beta kits. Some people prefer a ombilical chord with wire sleeve/loom. If you wish to buy a chain, get a 10x10 chain with the end joints here or similar https://s.click.aliexpress.com/e/_DDGBfvz. One end bolts to frame with M3 tnuts and bolts and the other end bolts to the printed mount on the bed support plate)
+
 - [Bed level adjustment knobs](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20complete%20system%20-%20Aluminum/STLs/Bed%20level%20adjustment%20knobs%20.stl)
 - (For chain mount, if your bed support plate dont have the 2 M3 holes/thread in the back please use chain mount option2)
 - [Z-chain mount](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20complete%20system%20-%20Aluminum/STLs/Z-chain%20mount.stl)
