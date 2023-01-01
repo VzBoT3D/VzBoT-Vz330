@@ -53,7 +53,7 @@ This section will help to determine what you need to print in advance for the bu
 - [Z-chain mount](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20complete%20system%20-%20Aluminum/STLs/Z-chain%20mount.stl)
 - [Z-chain mount option2](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20complete%20system%20-%20Aluminum/STLs/Z-chain%20mount%20option2.stl)
 - [Z-chain mount option2-spacer](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20complete%20system%20-%20Aluminum/STLs/Z-chain%20mount%20option2-spacer.stl)
-- [Z stop switch mount](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20complete%20system%20-%20Aluminum/STLs/printed%20z%20switch%20adapter.stl)
+- [Z stop switch mount](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20complete%20system%20-%20Aluminum/STLs/printed%20z%20switch%20adapter.stl) There is a STL for that, but the kit comes with a CNC switch mount. 
 
 ## [RSCS](/Assemblies%20BOM%20and%20STL/RSCS)
 <img width="574" alt="image" src="https://user-images.githubusercontent.com/37383368/210115893-5dd6f5ff-7716-4ad3-bcb9-101bca8e2e98.png">
