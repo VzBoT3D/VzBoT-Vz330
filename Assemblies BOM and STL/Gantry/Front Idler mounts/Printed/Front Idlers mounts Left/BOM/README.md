@@ -1,5 +1,7 @@
 ![Front Idlers Mount Left](https://user-images.githubusercontent.com/37383368/137979762-3c4fa0eb-c0e6-42c3-8169-610023ce7d93.gif)
 
+NOTE: We now recommend 30mm M4 Shoulder bolts instead of M5 bolts for idlers. So add 2 M4 nuts to that BOM if you wish to use shouldbolts.
+
 | Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
 | 5       | M4 10mm Bolts       | ![M4x10_buttonhead](https://user-images.githubusercontent.com/37383368/137979927-7dd9066e-054c-4d87-8fed-1b4228b0960a.png) | Your choice of socket or button head | https://s.click.aliexpress.com/e/_9RWMof https://s.click.aliexpress.com/e/_9RMap3 |
