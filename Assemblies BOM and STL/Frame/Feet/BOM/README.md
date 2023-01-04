@@ -1,5 +1,6 @@
-![image](https://user-images.githubusercontent.com/37383368/150451219-a742b55c-d77f-46b9-94de-215a61fd2ce9.png)
-![image](https://user-images.githubusercontent.com/37383368/150451242-ef908251-b401-43ea-b02c-f5f42b2845d3.png)
+<img width="757" alt="image" src="https://user-images.githubusercontent.com/37383368/210469454-aea53f71-8d0a-4b35-b441-75d6b39121b3.png">
+<img width="833" alt="image" src="https://user-images.githubusercontent.com/37383368/210469654-d912b857-065a-4d5a-98e7-5217f7053ca1.png">
+<img width="832" alt="image" src="https://user-images.githubusercontent.com/37383368/210469497-e4964755-01cb-42e3-b75e-8447abc16758.png">
 
 Tronxy X5S comes with either 12mm or 18mm tall rubber feet. If you have the 12mm tall version, you will need to print the spacer in the STL section.
 If you dont come from a X5S upgrade, you can buy the 13mm version with the below link. you will need to print the spacer as well, but scale it in Z by -1mm
