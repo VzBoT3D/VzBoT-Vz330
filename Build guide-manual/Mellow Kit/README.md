@@ -14,6 +14,7 @@ This section will help to determine what you need to print in advance for the bu
 ## [Frame](/Assemblies%20BOM%20and%20STL/Frame)
 <img width="607" alt="image" src="https://user-images.githubusercontent.com/37383368/210115146-2aabb50a-7a39-4201-ad02-35352c372164.png">
 - All the STL found in the frame section, except the rear top brace for motor tensioner. (These braces are for people running with no enclosure)
+- Some users reported that the 20mm M4 bolts and tnuts were missing from the kit for the 4 frame feet. You might have to source them
 
 ## [Gantry](/Assemblies%20BOM%20and%20STL/Gantry):
 <img width="992" alt="image" src="https://user-images.githubusercontent.com/37383368/210115639-6b2158bb-fa36-4a1c-9ae3-acfcb1e5f99b.png">
@@ -24,6 +25,8 @@ This section will help to determine what you need to print in advance for the bu
 - Gantry comes pre-assembled with most printed parts already there. You will only need the X tube spacers. Mesure you CF tube in height. If your tube is 20mm tall, then you will need to print 4 spacers (2 on each side) of 0.5mm. The Y gantry has an opening of 21mm, so you will need to compensate for 1mm if your tube is 20mm. So 0.5mm spacers between Y gantry and tube. (One top and one bottom to keep it centered). If your tube is 20.5mm, then you have a 0.5mm to compensate, so print spacers with 0.25mm height (scale them in Z in your your slicer to the desired height).
 
 - The front motor/idler mounts on X1 side maybe have been assembled the wrong way for the idlers. Refer to the CAD model or the screenshot below. Also something that we didnt think about for the pre-assembled gantry, is that you will need to unbolt the front motor/idler full assembly in order to access the M5 frame bolt on both sides (refer to second screen shot here). No need to dissassemble the whole assembly, just remove the bolts that holds both aluminum plates to the frame so you can remove the whole assembly as one. 
+
+- A good practice here on the 4 motors would be to make sure that motor gears are bolted to motor shaft on the round side of the shaft and NOT using the D cut out (the flat portion of the shaft) before you install the belts. This will help your later to sync all motors together. If the gears are installed on the D cut, then synching is impossible to achieve. Gears need to be ablet to adjust their position on the shaft. The build manual will explain you how to sync the motors later [here](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Build%20guide-manual/VZ330%20AWD%20Manual%20Aluminum.pdf)
 <img width="850" alt="image" src="https://user-images.githubusercontent.com/37383368/210116456-26c591d4-d10b-4140-baf6-b5b4c1545568.png">
 
 ![image](https://user-images.githubusercontent.com/37383368/210116584-4fd1e248-d878-4ef8-8ca3-ec01c82c4c76.png)
