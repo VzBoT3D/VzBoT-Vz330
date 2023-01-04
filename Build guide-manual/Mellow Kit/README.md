@@ -67,5 +67,10 @@ This section will help to determine what you need to print in advance for the bu
 - [middle low duct](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/RSCS/STLs/MiddleLow-duct.stl)
 - [top duct](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/RSCS/STLs/Top-duct.stl)
 
+## [Enclosure](https://github.com/VzBoT3D/VzBoT-Vz330/tree/master/Assemblies%20BOM%20and%20STL/enclosure)
+![image](https://user-images.githubusercontent.com/37383368/210599061-ed3ba344-b45c-4c4e-884d-f9e488dcd232.png)
+
+- You need everything in link above
+
 
 ...... work in progress.. 
