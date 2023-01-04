@@ -72,5 +72,7 @@ This section will help to determine what you need to print in advance for the bu
 
 - You need everything in link above
 
+## [Electronics](/Assemblies%20BOM%20and%20STL/electronics)
+
 
 ...... work in progress.. 
