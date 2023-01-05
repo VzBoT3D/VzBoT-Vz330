@@ -8,7 +8,7 @@ This is still a beta release, and we will try our best to help you through this 
 This section will help to determine what you need to print in advance for the build. It will be devided by section and STLs can be found in the [Assemblies BOM and STL](/Assemblies%20BOM%20and%20STL)
 
 ## [Alignment tools](/Assemblies%20BOM%20and%20STL/Alignement%20Tools): 
-- [Z aligment tool for 10mm Rods](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Alignement%20Tools/Z%20Alligment%20tool%2010mm%20rod.stl)
+- [Z aligment tool for 10mm Rods](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Alignement%20Tools/Z%20Alligment%20tool%2010mm%20rod.stl) x2
 - You do not need to print the MGN rail aligment tool(s) as the gantry is pre-assembled.
 
 ## [Frame](/Assemblies%20BOM%20and%20STL/Frame)
@@ -17,20 +17,27 @@ This section will help to determine what you need to print in advance for the bu
 - Some users reported that the 20mm M4 bolts and tnuts were missing from the kit for the 4 frame feet. You might have to source them
 
 ## [Gantry](/Assemblies%20BOM%20and%20STL/Gantry):
-<img width="992" alt="image" src="https://user-images.githubusercontent.com/37383368/210115639-6b2158bb-fa36-4a1c-9ae3-acfcb1e5f99b.png">
-<img width="550" alt="image" src="https://user-images.githubusercontent.com/37383368/210115736-cbf3270c-41dd-4773-b718-5142a84d999d.png">
+<img width="1093" alt="image" src="https://user-images.githubusercontent.com/37383368/210687358-556ff2ba-ccea-4c6a-bc5b-d21a3601e608.png">
+<img width="377" alt="image" src="https://user-images.githubusercontent.com/37383368/210686948-ba47410a-75ec-418b-a01f-66142b5d66fa.png">
 
-- [Y gantry tube spacers](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry/STLs/spacer_alu_Y_gantry_0.5mm.stl) x4
+## Gantry comes pre-assembled with printed parts in PLA that are for transportation only. It should not be used on the printer. You can easily replace the parts without dissassembling the whole thing.
 
-- Gantry comes pre-assembled with most printed parts already there. You will only need the X tube spacers. Mesure you CF tube in height. If your tube is 20mm tall, then you will need to print 4 spacers (2 on each side) of 0.5mm. The Y gantry has an opening of 21mm, so you will need to compensate for 1mm if your tube is 20mm. So 0.5mm spacers between Y gantry and tube. (One top and one bottom to keep it centered). If your tube is 20.5mm, then you have a 0.5mm to compensate, so print spacers with 0.25mm height (scale them in Z in your your slicer to the desired height).
+### [Y gantry](/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry)
+- [Y gantry tube spacers](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry/STLs/spacer_alu_Y_gantry_0.5mm.stl) x4 (Make sure to read instructions in the link above)
+- [Y gantry back spacers](/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry/STLs/gantry%20back%20spacer.stl) x2
+- [X limit switch stopper](/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry/STLs/XendStop.stl)
+### [Rear motor mounts](/Assemblies%20BOM%20and%20STL/Gantry/Motor%20Mounts/Aluminum)
+- [spacer frame side](/Assemblies%20BOM%20and%20STL/Gantry/Motor%20Mounts/Aluminum/Left%20Motor%20Mount/STLs/Spacer%20frame%20side.stl) x2
+- [spacer inner side](/Assemblies%20BOM%20and%20STL/Gantry/Motor%20Mounts/Aluminum/Left%20Motor%20Mount/STLs/Spacer%20inner%20side.stl) x2
+- [Tension adjustement knob](/Assemblies%20BOM%20and%20STL/Gantry/Motor%20Mounts/Aluminum/Left%20Motor%20Mount/STLs/knob.stl) x2
+- [knob cap](/Assemblies%20BOM%20and%20STL/Gantry/Motor%20Mounts/Aluminum/Left%20Motor%20Mount/STLs/knob-cap.stl) x2
+### [Front motor mounts](/Assemblies%20BOM%20and%20STL/Gantry/Front%20Idler-motor%20mounts%20AWD/Alu%20version)
+- [Spacers](/Assemblies%20BOM%20and%20STL/Gantry/Front%20Idler-motor%20mounts%20AWD/Alu%20version/20mmSpacer.stl) x2
 
-- The front motor/idler mounts on X1 side maybe have been assembled the wrong way for the idlers. Refer to the CAD model or the screenshot below. Also something that we didnt think about for the pre-assembled gantry, is that you will need to unbolt the front motor/idler full assembly in order to access the M5 frame bolt on both sides (refer to second screen shot here). No need to dissassemble the whole assembly, just remove the bolts that holds both aluminum plates to the frame so you can remove the whole assembly as one. 
+
+NOTE: The motor/idler mounts may have been assembled the wrong position for the idlers. Refer to the CAD model [here](https://a360.co/3Q0ueRY) to make sure they are properly installed. Also something that we didnt think about for the pre-assembled gantry, is that you will need to unbolt the front motor/idler full assembly in order to access the M5 frame bolt on both sides (refer to screen shot here). No need to dissassemble the whole assembly, just remove the bolts that holds both aluminum plates to the frame so you can remove the whole assembly as one. ![image](https://user-images.githubusercontent.com/37383368/210116584-4fd1e248-d878-4ef8-8ca3-ec01c82c4c76.png)
 
 - A good practice here on the 4 motors would be to make sure that motor gears are bolted to motor shaft on the round side of the shaft and NOT using the D cut out (the flat portion of the shaft) before you install the belts. This will help your later to sync all motors together. If the gears are installed on the D cut, then synching is impossible to achieve. Gears need to be ablet to adjust their position on the shaft. The build manual will explain you how to sync the motors later [here](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Build%20guide-manual/VZ330%20AWD%20Manual%20Aluminum.pdf)
-<img width="850" alt="image" src="https://user-images.githubusercontent.com/37383368/210116456-26c591d4-d10b-4140-baf6-b5b4c1545568.png">
-
-![image](https://user-images.githubusercontent.com/37383368/210116584-4fd1e248-d878-4ef8-8ca3-ec01c82c4c76.png)
-
 
 
 ## [Printhead](https://github.com/VzBoT3D/Vz-Printhead/)
