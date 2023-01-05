@@ -96,8 +96,8 @@ can be customized to your liking. We suggest one design that you can use on gith
 - [5160 fan cover](/Assemblies%20BOM%20and%20STL/electronics/Back%20Electronic%20bay/Fly%20Super8/FlySuper8%20fan%20cover.stl)
 - [knobs](/Assemblies%20BOM%20and%20STL/electronics/Back%20Electronic%20bay/knobs.stl) x4
 - [Vz330 logo plate](/Assemblies%20BOM%20and%20STL/electronics/Back%20Electronic%20bay/Vz330%20logo%20plate.stl)
+- Raspberry pi DIN mount. Your personal preference. Some models found [here](https://www.printables.com/search/all?q=raspberry%20pi%20din)
 
-
-
+## Front screen
 
 ...... work in progress..
