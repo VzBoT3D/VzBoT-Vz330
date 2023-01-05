@@ -98,6 +98,16 @@ can be customized to your liking. We suggest one design that you can use on gith
 - [Vz330 logo plate](/Assemblies%20BOM%20and%20STL/electronics/Back%20Electronic%20bay/Vz330%20logo%20plate.stl)
 - Raspberry pi DIN mount. Your personal preference. Some models found [here](https://www.printables.com/search/all?q=raspberry%20pi%20din)
 
-## Front screen
+## [Front screen mount](/Assemblies%20BOM%20and%20STL/electronics/Screen%20Mount/New%20Version)
+<img width="742" alt="image" src="https://user-images.githubusercontent.com/37383368/210694491-ad33eb76-7252-42f3-8e87-412ff7cd0f20.png">
+
+- [Screen mount back](/Assemblies%20BOM%20and%20STL/electronics/Screen%20Mount/screen%20mount%20back.stl)
+- [Screen mount frame](/Assemblies%20BOM%20and%20STL/electronics/Screen%20Mount/screen%20mount%20frame.stl)
+- [Screen front cover](/Assemblies%20BOM%20and%20STL/electronics/Screen%20Mount/New%20Version/screen%20cover.stl)
+- [Screen back](/Assemblies%20BOM%20and%20STL/electronics/Screen%20Mount/New%20Version/screen%20back.stl)
+
+## Optional:
+
+- [Front LED](/Assemblies%20BOM%20and%20STL/electronics/Front%20LED%20for%20AWD)
 
 ...... work in progress..
