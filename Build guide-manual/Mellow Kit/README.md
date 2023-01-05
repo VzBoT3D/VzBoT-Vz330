@@ -8,8 +8,8 @@ This is still a beta release, and we will try our best to help you through this 
 This section will help to determine what you need to print in advance for the build. It will be devided by section and STLs can be found in the [Assemblies BOM and STL](/Assemblies%20BOM%20and%20STL)
 
 ## [Alignment tools](/Assemblies%20BOM%20and%20STL/Alignement%20Tools): 
-- [Z aligment tool for 10mm Rods](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Alignement%20Tools/Z%20Alligment%20tool%2010mm%20rod.stl) x2
-- You do not need to print the MGN rail aligment tool(s) as the gantry is pre-assembled.
+- [Z alignment tool for 10mm Rods](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Alignement%20Tools/Z%20Alligment%20tool%2010mm%20rod.stl) x2
+- You do not need to print the MGN rail alignment tool(s) as the gantry is pre-assembled.
 
 ## [Frame](/Assemblies%20BOM%20and%20STL/Frame)
 <img width="607" alt="image" src="https://user-images.githubusercontent.com/37383368/210115146-2aabb50a-7a39-4201-ad02-35352c372164.png">
@@ -20,7 +20,7 @@ This section will help to determine what you need to print in advance for the bu
 <img width="1093" alt="image" src="https://user-images.githubusercontent.com/37383368/210687358-556ff2ba-ccea-4c6a-bc5b-d21a3601e608.png">
 <img width="377" alt="image" src="https://user-images.githubusercontent.com/37383368/210686948-ba47410a-75ec-418b-a01f-66142b5d66fa.png">
 
-## Gantry comes pre-assembled with printed parts in PLA that are for transportation only. It should not be used on the printer. You can easily replace the parts without dissassembling the whole thing.
+## Gantry comes pre-assembled with printed parts in PLA that are for transportation only. It should not be used on the printer. You can easily replace the parts without disassembling the whole thing.
 
 ### [Y gantry](/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry)
 - [Y gantry tube spacers](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry/STLs/spacer_alu_Y_gantry_0.5mm.stl) x4 (Make sure to read instructions in the link above)
@@ -34,16 +34,18 @@ This section will help to determine what you need to print in advance for the bu
 ### [Front motor mounts](/Assemblies%20BOM%20and%20STL/Gantry/Front%20Idler-motor%20mounts%20AWD/Alu%20version)
 - [Spacers](/Assemblies%20BOM%20and%20STL/Gantry/Front%20Idler-motor%20mounts%20AWD/Alu%20version/20mmSpacer.stl) x2
 
+### Y limit switch mount is CNC. No need to print it
 
-NOTE: The motor/idler mounts may have been assembled the wrong position for the idlers. Refer to the CAD model [here](https://a360.co/3Q0ueRY) to make sure they are properly installed. Also something that we didnt think about for the pre-assembled gantry, is that you will need to unbolt the front motor/idler full assembly in order to access the M5 frame bolt on both sides (refer to screen shot here). No need to dissassemble the whole assembly, just remove the bolts that holds both aluminum plates to the frame so you can remove the whole assembly as one. ![image](https://user-images.githubusercontent.com/37383368/210116584-4fd1e248-d878-4ef8-8ca3-ec01c82c4c76.png)
 
-- A good practice here on the 4 motors would be to make sure that motor gears are bolted to motor shaft on the round side of the shaft and NOT using the D cut out (the flat portion of the shaft) before you install the belts. This will help your later to sync all motors together. If the gears are installed on the D cut, then synching is impossible to achieve. Gears need to be ablet to adjust their position on the shaft. The build manual will explain you how to sync the motors later [here](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Build%20guide-manual/VZ330%20AWD%20Manual%20Aluminum.pdf)
+NOTE: The motor/idler mounts may have been assembled the wrong position for the idlers. Refer to the CAD model [here](https://a360.co/3Q0ueRY) to make sure they are properly installed. Also something that we didn’t think about for the pre-assembled gantry, is that you will need to unbolt the front motor/idler full assembly in order to access the M5 frame bolt on both sides (refer to screen shot here). No need to disassemble the whole assembly, just remove the bolts that holds both aluminum plates to the frame so you can remove the whole assembly as one. ![image](https://user-images.githubusercontent.com/37383368/210116584-4fd1e248-d878-4ef8-8ca3-ec01c82c4c76.png)
+
+- A good practice here on the 4 motors would be to make sure that motor gears are bolted to motor shaft on the round side of the shaft and NOT using the D cut out (the flat portion of the shaft) before you install the belts. This will help your later to sync all motors together. If the gears are installed on the D cut, then synching is impossible to achieve. Gears need to be able to adjust their position on the shaft. The build manual will explain you how to sync the motors later [here](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Build%20guide-manual/VZ330%20AWD%20Manual%20Aluminum.pdf)
 
 
 ## [Printhead](https://github.com/VzBoT3D/Vz-Printhead/)
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/37383368/210114952-d4b98c4c-af4c-41a7-8c46-ad2d894253c3.png">
 
-- [X endstop switch mount](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/X-endstop-mount.stl)
+- [X end stop switch mount](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/X-endstop-mount.stl)
 - [cable holder ](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/cable_holder.stl)
 - [fan duct lower Goliath](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/fan%20duct%20lower%20Goliath.stl)
 - [fan duct lower Goliath spacers](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/fan%20duct%20lower%20Goliath%20spacers.stl)
@@ -54,12 +56,12 @@ NOTE: The motor/idler mounts may have been assembled the wrong position for the 
 ## [Z complete system (pdf manual here)](/Assemblies%20BOM%20and%20STL/Z%20complete%20system%20-%20Aluminum)
 <img width="709" alt="image" src="https://user-images.githubusercontent.com/37383368/210116113-fcefb1c3-d0aa-4042-86ad-bc0f0d15b7de.png">
 
-(Cable chain is missing/not included in the beta kits. Some people prefer a ombilical chord with wire sleeve/loom. If you wish to buy a chain, get a 10x10 chain with the end joints here or similar https://s.click.aliexpress.com/e/_DDGBfvz. One end bolts to frame with M3 tnuts and bolts and the other end bolts to the printed mount on the bed support plate)
+(Cable chain is missing/not included in the beta kits. Some people prefer a umbilical chord with wire sleeve/loom. If you wish to buy a chain, get a 10x10 chain with the end joints here or similar https://s.click.aliexpress.com/e/_DDGBfvz. One end bolts to frame with M3 tnuts and bolts and the other end bolts to the printed mount on the bed support plate)
 
-(some cusotmers reported missing bed silicon spacers in their kit. Kit comes with clear translucent spacers, but i recommend black silicon spacers. Check in the bom for link. We will try to fix this on the next kits. If you buy the black spacers, you can use a big metal washer 20mm between spacer and heatbed)
+(some customers reported missing bed silicon spacers in their kit. Kit comes with clear translucent spacers, but i recommend black silicon spacers. Check in the bom for link. We will try to fix this on the next kits. If you buy the black spacers, you can use a big metal washer 20mm between spacer and heat bed)
 
 - [Bed level adjustment knobs](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20complete%20system%20-%20Aluminum/STLs/Bed%20level%20adjustment%20knobs%20.stl)
-- (For chain mount, if your bed support plate dont have the 2 M3 holes/thread in the back please use chain mount option2)
+- (For chain mount, if your bed support plate don’t have the 2 M3 holes/thread in the back please use chain mount option2)
 - [Z-chain mount](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20complete%20system%20-%20Aluminum/STLs/Z-chain%20mount.stl)
 - [Z-chain mount option2](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20complete%20system%20-%20Aluminum/STLs/Z-chain%20mount%20option2.stl)
 - [Z-chain mount option2-spacer](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20complete%20system%20-%20Aluminum/STLs/Z-chain%20mount%20option2-spacer.stl)
@@ -81,5 +83,21 @@ NOTE: The motor/idler mounts may have been assembled the wrong position for the 
 
 ## [Electronics](/Assemblies%20BOM%20and%20STL/electronics)
 
+## [Back Electronic bay](/Assemblies%20BOM%20and%20STL/electronics/Back%20Electronic%20bay):
+can be customized to your liking. We suggest one design that you can use on github if you wish
+<img width="775" alt="image" src="https://user-images.githubusercontent.com/37383368/210691792-242bcd64-5d62-46c1-8cf6-ed17f6778346.png">
+- [CPAP controller board mounting plate](/Assemblies%20BOM%20and%20STL/electronics/Back%20Electronic%20bay/CPAP%20controller%20board%20mounting%20plate.stl) M2.5 screws to secure the board to printed mount, and use double sided tape to mount to the back plate
+- [CPAP fan mount](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/CPAP%20fan%20mount.stl)
+- [CPAP fan outlet](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/CPAP%20fan%20outlet%20adapter.stl)
+- [Lower Grill right with powerswitch](/Assemblies%20BOM%20and%20STL/electronics/Back%20Electronic%20bay/Lower%20Grill%20right%20with%20powerswitch.stl) (can be mirrored in slicer if you wish to have the POWER line and switch on the left side)
+- [Lower Grill left](/Assemblies%20BOM%20and%20STL/electronics/Back%20Electronic%20bay/Lower%20Grill%20left.stl) (can be mirrored in slicer)
+- [Super8 +5160 mount](/Assemblies%20BOM%20and%20STL/electronics/Back%20Electronic%20bay/Fly%20Super8/FlySuper8%2B4x5160pro%20mount.stl)
+- [Super8 din mount](/Assemblies%20BOM%20and%20STL/electronics/Back%20Electronic%20bay/Fly%20Super8/FlySuper8%20din%20mountX2.stl) x2
+- [5160 fan cover](/Assemblies%20BOM%20and%20STL/electronics/Back%20Electronic%20bay/Fly%20Super8/FlySuper8%20fan%20cover.stl)
+- [knobs](/Assemblies%20BOM%20and%20STL/electronics/Back%20Electronic%20bay/knobs.stl) x4
+- [Vz330 logo plate](/Assemblies%20BOM%20and%20STL/electronics/Back%20Electronic%20bay/Vz330%20logo%20plate.stl)
 
-...... work in progress.. 
+
+
+
+...... work in progress..
