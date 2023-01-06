@@ -44,7 +44,9 @@ NOTE: The motor/idler mounts may have been assembled the wrong position for the 
 
 ## [Printhead](https://github.com/VzBoT3D/Vz-Printhead/)
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/37383368/210114952-d4b98c4c-af4c-41a7-8c46-ad2d894253c3.png">
-### NOTE: 4xM3 4mm should have been included in the kit to mount the printhead to the MGN9. Some people reported those 4 were missing. If that is your case, please use the M3x4 button head. It should work. If you prefer you could grind down the included M3x6mm bolt about 1mm so it's 5mm. Insert a nut on the bolt before doing so, that way when you are done grinding (or cutting), the threads will be repaired when the nut is removed. If you are not equipped for this task, please let us know. Mellow can send you 4 bolts. Or you could order them here:
+### NOTE: 4xM3 4mm should have been included in the kit to mount the printhead to the MGN9. Some people reported those 4 were missing. If that is your case, please use the M3x4 button head. It should work. If you prefer you could grind down the included M3x6mm bolt about 1mm so it's 5mm. Insert a nut on the bolt before doing so, that way when you are done grinding (or cutting), the threads will be repaired when the nut is removed. 
+<img width="317" alt="image" src="https://user-images.githubusercontent.com/37383368/210915792-5fe2450f-fd8d-4cbe-bf2e-e2d220632499.png">
+
 
 - [X end stop switch mount](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/X-endstop-mount.stl)
 - [cable holder ](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/cable_holder.stl)
