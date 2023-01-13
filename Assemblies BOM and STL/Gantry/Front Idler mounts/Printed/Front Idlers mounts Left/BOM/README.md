@@ -1,6 +1,6 @@
 ![Front Idlers Mount Left](https://user-images.githubusercontent.com/37383368/137979762-3c4fa0eb-c0e6-42c3-8169-610023ce7d93.gif)
 
-NOTE: We now recommend 30mm M4 Shoulder bolts instead of M5 bolts for idlers. So add 2 M4 nuts to that BOM if you wish to use shoulder bolts or 2 M3 nuts if you you use m3 5m shoulder botls
+NOTE: We now recommend 30mm M4 Shoulder bolts instead of M5 bolts for idlers. So add 2 M4 nuts to that BOM if you wish to use shoulder bolts or 2 M3 nuts if you you use m3 5mm shoulder botls
 
 | Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
