@@ -56,6 +56,9 @@ NOTE: The motor/idler mounts may have been assembled the wrong position for the 
 - [fan duct upper](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/upper%20duct.stl)
 - [upper duct mount](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/upper%20duct%20mount.stl)
 - [upper duct cpap c clamp](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/c-clamp.stl)
+- [Goliath 2510 fan duct](https://github.com/VzBoT3D/Goliath/blob/main/STL/Air%20Cool%20Fan%20duct/Fan%20duct%202510-With%20flange%20for%20Vz-Printhead%20CNC.stl)
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/37383368/214460290-3fa1b67c-b6f5-406e-973e-913280dc1212.png">
+
 
 ## [Z complete system (pdf manual here)](/Assemblies%20BOM%20and%20STL/Z%20complete%20system%20-%20Aluminum)
 <img width="709" alt="image" src="https://user-images.githubusercontent.com/37383368/210116113-fcefb1c3-d0aa-4042-86ad-bc0f0d15b7de.png">
