@@ -6,7 +6,7 @@ High speed, moderately sized 3D-printer, based on the TronXY XS5(A) CoreXY frame
 but can be easily adapted for other 2020 aluminium extrusion frames.
 
 You can find the complete web model without CAD-Software here: 
-- [Printed Vz-330](https://a360.co/3HqLkF3)  
+- [Printed Vz-330](https://a360.co/3WUXJGZ)  
 - [Full CNC AWD Vz-330](https://a360.co/3Q0ueRY)
 
 ![d83b489c-6b62-4fff-923e-577ffe9a15dd](https://user-images.githubusercontent.com/37383368/148010563-464f9006-6cf8-4430-93d2-a66cc4282bac.jpg)
