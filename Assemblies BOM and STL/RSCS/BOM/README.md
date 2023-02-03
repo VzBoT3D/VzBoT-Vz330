@@ -1,6 +1,6 @@
 <img width="719" alt="image" src="https://user-images.githubusercontent.com/37383368/216690270-018dc463-1ddf-4f84-a274-74b60a87e1dc.png">
 
-
+# (BOM is for one side only)
 | Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
 | 6       | M3 8mm Bolt   | ![M3x20_sockethead](https://user-images.githubusercontent.com/37383368/138380108-e46f6ecc-8347-4887-a00f-4ea8e5e01eab.png) |  | https://s.click.aliexpress.com/e/_9RMap3 |
