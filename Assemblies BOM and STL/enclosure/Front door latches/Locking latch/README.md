@@ -4,7 +4,5 @@ BOM Needed:
 - 4 x M3 8mmm (To bolt to front door panels)
 -  4 x M3 heat inserts 
 
-<img width="840" alt="image" src="https://user-images.githubusercontent.com/37383368/217713439-ff44919b-eacb-4e98-91d9-e2d7e77951c2.png">
-<img width="894" alt="image" src="https://user-images.githubusercontent.com/37383368/217713465-3a0132f1-e0d6-4e90-8acb-d50b635fd10d.png">
-
-
+<img width="722" alt="image" src="https://user-images.githubusercontent.com/37383368/217714028-3c746b77-7827-4a18-9c6d-ea03c5530986.png">
+<img width="885" alt="image" src="https://user-images.githubusercontent.com/37383368/217714064-7ea6cfaa-8a6a-46e8-8a4f-ce0758ad9d69.png">
