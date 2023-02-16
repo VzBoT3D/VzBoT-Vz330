@@ -7,8 +7,8 @@ This is still a beta release, and we will try our best to help you through this 
 
 This section will help to determine what you need to print in advance for the build. It will be devided by section and STLs can be found in the [Assemblies BOM and STL](/Assemblies%20BOM%20and%20STL)
 
-## [Alignment tools](/Assemblies%20BOM%20and%20STL/Alignement%20Tools): 
-- [Z alignment tool for 10mm Rods](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Alignement%20Tools/Z%20Alligment%20tool%2010mm%20rod.stl) x2
+## [Alignment tools](/Assemblies%20BOM%20and%20STL/Alignment%20Tools): 
+- [Z alignment tool for 10mm Rods](/Assemblies%20BOM%20and%20STL/Alignment%20Tools/Z%20Alignment%20tool%2010mm%20rod.stl) x2
 - You do not need to print the MGN rail alignment tool(s) as the gantry is pre-assembled.
 
 ## [Frame](/Assemblies%20BOM%20and%20STL/Frame)
