@@ -32,6 +32,13 @@ Unfortunately, due to inflation, and other costs, this price may be a higher (th
 
 Additionally, a Vz-235 will be less expensive, due to the smaller size and easily source able parts.
 
+# Where can you buy and find parts?
+ We have 2 official manufacturers for parts. Mellow 3D and F3D racing in Germany. There are resellers and we will try to keep this list up to date. Please visit the reseller section
+
+ - F3D Racing: https://f3d-racing-fdm.myshopify.com/
+ - Aliexpress and Taobao:  [Mellow Store](https://www.aliexpress.com/store/1531088)
+ 
+
 # What is AWD (All wheel drive)?
 In conventional CoreXY machines, a 2WD setup is used. This setup utilizes 2 stepper motors at the back or front of the machine. Recently, the VzBoT project has adapted the AWD setup! This setup utilizes 2 motors on X, and 2 on Y, doubling the amount of motors for the XY plane. What are the advantages of this setup? Let's go over them:
 
