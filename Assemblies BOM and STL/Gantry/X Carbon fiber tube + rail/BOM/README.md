@@ -1,3 +1,4 @@
+## NOTE: The new tube from Mellow does not require any printed tool for installing the nuts inside the tube. Nuts can be torqued from the bottom holes
 ![x carbon fiber tube + rail](https://user-images.githubusercontent.com/37383368/138726384-6cb52031-3131-47fd-98e0-cadc4a8e028c.gif)
 
 | Quantity | Part                         | Image             | comment  | Links  |
