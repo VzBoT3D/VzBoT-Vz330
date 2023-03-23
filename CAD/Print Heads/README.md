@@ -1,5 +1,7 @@
 Printed head asemblies.
 
+UPDATE. VzBoT do not use EVA anymore. Please update to Vz-Printhead
+
 The Print head is a modified EVA carriage to fit the VzBoT. The EVA project is owned and maintained by Pawel. Big thanks and credits to the man behind this.
 https://main.eva-3d.page/
 
