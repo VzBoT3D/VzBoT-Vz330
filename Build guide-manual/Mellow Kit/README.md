@@ -24,7 +24,8 @@ This section will help to determine what you need to print in advance for the bu
 
 ### [Y gantry](/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry)
 - [Y gantry tube spacers](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry/STLs/spacer_alu_Y_gantry_0.5mm.stl) x4 (Make sure to read instructions in the link above)
-- [Y gantry back spacers](/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry/STLs/gantry%20back%20spacer.stl) x2
+- [CF tube ends](/Assemblies%20BOM%20and%20STL/Gantry/X%20Carbon%20fiber%20tube%20%2B%20rail/STLs/cf%20tube%20end.stl) 
+- [Y gantry back spacers](/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry/STLs/gantry%20back%20spacer.stl) x2 (newer kit has those in CNC aluminum, so no need to print)
 - [X limit switch stopper](/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry/STLs/XendStop.stl)
 ### [Rear motor mounts](/Assemblies%20BOM%20and%20STL/Gantry/Motor%20Mounts/Aluminum)
 - [spacer frame side](/Assemblies%20BOM%20and%20STL/Gantry/Motor%20Mounts/Aluminum/Left%20Motor%20Mount/STLs/Spacer%20frame%20side.stl) x2
