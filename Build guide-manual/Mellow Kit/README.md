@@ -19,12 +19,15 @@ This section will help to determine what you need to print in advance for the bu
 ## [Gantry](/Assemblies%20BOM%20and%20STL/Gantry):
 <img width="1093" alt="image" src="https://user-images.githubusercontent.com/37383368/210687358-556ff2ba-ccea-4c6a-bc5b-d21a3601e608.png">
 <img width="377" alt="image" src="https://user-images.githubusercontent.com/37383368/210686948-ba47410a-75ec-418b-a01f-66142b5d66fa.png">
+<img width="1293" alt="image" src="https://user-images.githubusercontent.com/37383368/227288955-9164efaa-e258-4952-8a5a-7c21536aa95d.png">
+
 
 ## Gantry comes pre-assembled with printed parts in PLA that are for transportation only. It should not be used on the printer. You can easily replace the parts without disassembling the whole thing.
 
-### [Y gantry](/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry)
+### [Y gantry AKA XY joiner](/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry)
 - [Y gantry tube spacers](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry/STLs/spacer_alu_Y_gantry_0.5mm.stl) x4 (Make sure to read instructions in the link above)
-- [Y gantry back spacers](/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry/STLs/gantry%20back%20spacer.stl) x2
+- [CF tube ends](/Assemblies%20BOM%20and%20STL/Gantry/X%20Carbon%20fiber%20tube%20%2B%20rail/STLs/cf%20tube%20end.stl) Goes inside the tube to avoid crushing it while torquing 
+- [Y gantry back spacers](/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry/STLs/gantry%20back%20spacer.stl) x2 (newer kit has those in CNC aluminum, so no need to print)
 - [X limit switch stopper](/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry/STLs/XendStop.stl)
 ### [Rear motor mounts](/Assemblies%20BOM%20and%20STL/Gantry/Motor%20Mounts/Aluminum)
 - [spacer frame side](/Assemblies%20BOM%20and%20STL/Gantry/Motor%20Mounts/Aluminum/Left%20Motor%20Mount/STLs/Spacer%20frame%20side.stl) x2
@@ -51,7 +54,7 @@ NOTE: The motor/idler mounts may have been assembled the wrong position for the 
 
 - [X end stop switch mount](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/X-endstop-mount.stl)
 - [cable holder ](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/cable_holder.stl)
-- [fan duct lower Goliath](https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/fan%20duct%20lower%20Goliath%20long.stl)
+- [fan duct lower Goliath](https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/fan%20duct%20lower%20Goliath%20long.stl) One could also use the Goliath short version if prefered. It also has the Beacon version. Check on the Vz-Printhead github site for more details
 - [fan duct lower Goliath spacers](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/fan%20duct%20lower%20Goliath%20spacers.stl)
 - [fan duct upper](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/upper%20duct.stl)
 - [upper duct mount](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/upper%20duct%20mount.stl)
