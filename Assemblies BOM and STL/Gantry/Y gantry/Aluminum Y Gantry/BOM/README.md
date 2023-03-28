@@ -1,5 +1,7 @@
 # BOM is for one side only. You will need 2. 
 
+### Your choice of precision shoulder bolts for Idlers, or M5 titanium or aluminum bolts with nuts. If you prefer weight saving go with bolts. If you prefer precision on idlers, go with shoulder bolts
+
 ## (Note: Since Carbon fiber tube dimensions are not always the same, you may need to add spacers (printed) between aluminum part and cabon tube. My tubes were 20.85mm and 20.65mm. I used the 20.85mm one with no washer. So depending on your luck, you may need to add spacers. See in the STL folder. you can scale it in Z in your slicer to fit your tube)
 
 ## When torquing the the idlers, make sure you do not apply to much axial load on the idler bearings. Tight manually with hands then add 1/4. Make sure idlers spin freely. This will avoid rattling sound, specially if you use graphite or metal spacers sold by mellow Kit)
