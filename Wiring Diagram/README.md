@@ -7,6 +7,8 @@
 - Super8 and Super8 Pro Documation: https://teamgloomy.github.io/fly_super8_general.html
 - Super8 Std Klipper info: https://mellow.klipper.cn/#/board/fly_super8/
 - Super8 Pro Klipper info: https://mellow.klipper.cn/#/board/fly_super8_pro/
+![image](https://user-images.githubusercontent.com/37383368/229196997-fc60f72e-347a-4394-acd4-ffa87696b913.png)
+
 
 
 
