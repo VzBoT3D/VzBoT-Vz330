@@ -9,7 +9,8 @@ You can find the complete web model without CAD-Software here:
 - [Printed Vz-330](https://a360.co/3zy0yob)  
 - [Full CNC AWD Vz-330](https://a360.co/3Q0ueRY)
 
-![d83b489c-6b62-4fff-923e-577ffe9a15dd](https://user-images.githubusercontent.com/37383368/148010563-464f9006-6cf8-4430-93d2-a66cc4282bac.jpg)
+![Vz-330-printed](https://user-images.githubusercontent.com/37383368/234322472-ee72c61e-8844-4459-8a6c-acaaecfe1e6f.png)
+
 
 # What is the VzBoT?
 The VzBoT is a high speed, moderately sized 3d Printer. Originally based on the TronXY X5SA / X5S Frame, this printer was aimed at those who want more performance out of their 330x330mm sized 3d printer.
