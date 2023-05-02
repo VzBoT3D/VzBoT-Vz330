@@ -15,7 +15,7 @@ List of resellers (this will be updated as we will deploy elwhere)
 ## USA:
 - [Provok3D](https://provok3d.com/vzbot-2/?v=0a10a0b3e53b)
 - [3Dprintedprinter](https://3Dprintedprinters.com) 
-- [Print3dshop](https://Print3dshop.org)
+- [Genericprinter](https://www.genericprinter.com/product/goliath-air-water-v2-hotend/)
 
 
 
