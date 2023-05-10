@@ -7,6 +7,7 @@ BOM:
 - 1 x M4 nut
 - 2 x M4 8mm bolt (to bolt to frame)
 - 2 M4 T-nuts
+- Screen : https://s.click.aliexpress.com/e/_DDhO8jX
 <img width="865" alt="image" src="https://github.com/VzBoT3D/VzBoT-Vz330/assets/37383368/26dc9b19-09a2-4260-acef-3741f632d32d">
 
 
