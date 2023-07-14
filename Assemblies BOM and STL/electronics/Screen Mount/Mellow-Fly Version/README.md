@@ -1,4 +1,4 @@
-## Please note the USB-C port is not needed when connected with ribbon cable (CSI)
+## Please note the USB-C port is not needed when connected with ribbon cable (DSI)
 
 <img width="892" alt="image" src="https://github.com/VzBoT3D/VzBoT-Vz330/assets/37383368/1b993b3a-d966-47dc-b5ee-64b86b0798b5">
 
