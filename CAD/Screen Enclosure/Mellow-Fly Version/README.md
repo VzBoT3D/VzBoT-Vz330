@@ -1,6 +1,7 @@
 ## Please note the USB-C port is not needed when connected with ribbon cable (DSI)
 
-<img width="892" alt="image" src="https://github.com/VzBoT3D/VzBoT-Vz330/assets/37383368/1b993b3a-d966-47dc-b5ee-64b86b0798b5">
+<img width="814" alt="image" src="https://github.com/VzBoT3D/VzBoT-Vz330/assets/37383368/bfed3c4a-3ce8-460e-95ef-eff7785a9a27">
+
 
 BOM:
 
