@@ -14,7 +14,8 @@
 - Super8 Pro Klipper info: https://mellow.klipper.cn/#/board/fly_super8_pro/
 
 # DISCLAIMER
-The macro files are required for our printer.cfg to work with klipper.
+The macro files are REQUIRED for our printer.cfg to work with klipper.
+Its also REQUIRED to add a "Linux Process" to klippe, See the "Install the rc script" and "Building the micro-controller code" section [https://www.klipper3d.org/RPi_microcontroller.html]
 
 # Macros information: DO NOT USE THE SPEED MACROS WITHOUT READING THIS.
 ## Speed Macros Explanation
