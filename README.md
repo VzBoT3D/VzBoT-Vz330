@@ -13,6 +13,10 @@ You can find the complete web model without CAD-Software here:
 
 Buy the full printer kit here: [https://s.click.aliexpress.com/e/_DldJGNB](https://s.click.aliexpress.com/e/_DkFwymp)
 
+# Looking For Guides?
+The VzBot team has been working on our own docs for helping with your assembly of the machine. For the most upto date guides they can be found here.
+[https://docs.vzbot.org/]
+
 # What is the VzBoT?
 The VzBoT is a high speed, moderately sized 3d Printer. Originally based on the TronXY X5SA / X5S Frame, this printer was aimed at those who want more performance out of their 330x330mm sized 3d printer.
 
