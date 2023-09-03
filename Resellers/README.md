@@ -12,8 +12,8 @@ List of resellers (this will be updated as we will deploy elwhere)
 ## Australia:
 - [raven3dtech.com.au](https://raven3dtech.com.au/product/mellow-goliath-air-water/)
 
-## Canada:
-- [Northprint3d.ca](https://northprint3d.ca/product/vzbot-mellow-goliath-lsd-hotend/)
+## Canada 
+- [Northprint3d.ca](https://northprint3d.ca/product/vzbot-mellow-goliath-lsd-hotend/) |Only For Goliath|
 
 ## USA:
 - [Provok3D](https://provok3d.com/vzbot-2/?v=0a10a0b3e53b)
