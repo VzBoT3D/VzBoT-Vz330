@@ -1,4 +1,4 @@
-# VzBoT  <a href='https://ko-fi.com/vez3d' target='_blank'><img height='46' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
+# VzBoT <a href='https://ko-fi.com/vez3d' target='_blank'><img style="height:36px;float:right;vertical-align:bottom;" src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
 
 [![Discord Invite](https://discordapp.com/api/guilds/829828765512106054/widget.png?style=banner2)](https://discord.gg/KWZWvCMxCq)
 
@@ -11,16 +11,18 @@ You can find the complete web model without CAD-Software here:
 
 ![Vz-330-printed](https://user-images.githubusercontent.com/37383368/234322472-ee72c61e-8844-4459-8a6c-acaaecfe1e6f.png)
 
-Buy the full printer kit here: [https://s.click.aliexpress.com/e/_DkFwymp]
+Buy the full printer kit here: <https://s.click.aliexpress.com/e/_DkFwymp>
 
 # Looking For Guides?
-The VzBot team has been working on our own docs for helping with your assembly of the machine. For the most upto date guides they can be found here.
-[https://docs.vzbot.org/]
+
+The VzBoT team has been working on our own docs for helping with your assembly of the machine. For the most upto date guides they can be found on the [VzBoT Docs][].
+
+[VzBoT Docs]: https://docs.vzbot.org/
 
 # What is the VzBoT?
-The VzBoT is a high speed, moderately sized 3d Printer. Originally based on the TronXY X5SA / X5S Frame, this printer was aimed at those who want more performance out of their 330x330mm sized 3d printer.
+The VzBoT is a high speed, moderately sized 3d Printer. Originally based on the TronXY X5S / X5SA Frame, this printer was aimed at those who wanted more performance out of their 330x330mm sized CoreXY 3D-printer.
 
-Since this era, the VzBoT project has come very far. From Aluminum CNC parts to a full kit (soon) and custom high performance hotend, the project has developed at a lightning pace to be one of the fastest printers out there.
+Since this era, the VzBoT project has come very far. With CNC aluminum parts and a full kit with custom high performance hotend, the project has evolved at a lightning pace to be one of the fastest printers out there.
 
 The printers
 Originally, the VZ project started with a Vz-330 by Simon Vez. Recently, Guillaume has developed his iteration of the VzBoT. This printer aims to address a few compromises with the larger sized printer, by using a 235x235 bed size (ender 3 sized). This makes sourcing the parts for this printer relatively easy. Combined with the AWD functionality (all wheel drive, 2 motors on X and 2 on Y) and shorter belt loops, this printer is for those who thrive to be the fastest.
