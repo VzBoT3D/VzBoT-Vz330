@@ -2,7 +2,7 @@ List of resellers (this will be updated as we will deploy elwhere)
 
 ## Europe:
 
-- Danemark: [3DO.eu](https://3do.eu/) 
+- Danemark: [3DO.dk](https://3do.dk/) 
 - Germany: [CR-3D.de](https://www.cr3d.de/)
 - Germany: [Meltbro](https://meltbro.de/mellow-vzbot-awd-330-3d-drucker-bausatz-metall-komponenten-golitath-hotend-hextrudort.html)
 - Poland: [X3Dshop](https://x3dshop.com/products/drukarka-3d-mellow-vzbot-330-kit-1)
