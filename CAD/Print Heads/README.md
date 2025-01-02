@@ -1,5 +1,5 @@
 The Vz-printhead has moved Repos. 
-If you are looking for the Printed version: https://github.com/VzBoT3D/Vz-Printhead
+If you are looking for the Printed version: https://github.com/VzBoT3D/Vz-Printhead-Printed
 If you are looking for the metal version: https://github.com/VzBoT3D/Vz-Printhead-CNC
 Disclaimer: Please note that the metal parts are work of the Vzbot team. To ensure quality components and further funding of our project, we do not offer these parts as CAD files.
 
